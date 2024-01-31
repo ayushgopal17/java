@@ -1,13 +1,13 @@
 import java.lang.*;
+import javax.swing.*;
+import java.awt.*;
 
 class Main
 {
-public static void main(String[]args){
-        byte b=15;
-        short s=20;
-        int   i=30;
-    System.out.println(b);
-    System.out.println(s);
-    System.out.println(i);
-        }
-        }
+    public static void main(String[] args) {
+
+        int x=5;
+        System.out.println(Integer.toBinaryString(x));
+    }
+}
+
