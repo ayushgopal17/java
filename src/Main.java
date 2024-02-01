@@ -1,13 +1,7 @@
-import java.lang.*;
-import javax.swing.*;
-import java.awt.*;
-
-class Main
-{
+package Main;
+public class Main {
     public static void main(String[] args) {
-
-        int x=-5;
-        System.out.println(Integer.toBinaryString(x));
+        char x=0x03C8;
+        System.out.println(x);
     }
 }
-
