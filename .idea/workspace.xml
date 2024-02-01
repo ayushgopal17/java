@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706795283153</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="symbols and its unicode">
+      <option name="closed" value="true" />
+      <created>1706796283112</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706796283112</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +144,7 @@
     <MESSAGE value="sum of TWO NUMBERS" />
     <MESSAGE value="integer to binary conversion" />
     <MESSAGE value="integer to binary conversion in 2's compliment form" />
-    <option name="LAST_COMMIT_MESSAGE" value="integer to binary conversion in 2's compliment form" />
+    <MESSAGE value="symbols and its unicode" />
+    <option name="LAST_COMMIT_MESSAGE" value="symbols and its unicode" />
   </component>
 </project>
