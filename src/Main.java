@@ -1,7 +1,15 @@
-package Main;
 public class Main {
     public static void main(String[] args) {
-        for(char c=0x0900; c<=0x0970;c++)
-        System.out.println(c+" ");
+
+        int a=10;
+        int b = 3;
+
+       int c=a/b;
+
+       int d=a%b;
+
+        System.out.println(c);
+        System.out.println(d);
     }
+
 }
