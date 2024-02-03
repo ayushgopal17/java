@@ -4,18 +4,19 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 
-float a,b,c;
-double r1,r2;
-        System.out.println("give the the value of a which is the coefficient of x^2 ");
-        a= sc.nextFloat();
-        System.out.println("give the the value of b which is the coefficient of x");
-        b=sc.nextFloat();
-        System.out.println("give the value of c which is constant term");
-        c= sc.nextFloat();
-        r1= (-b+(Math.sqrt(b*b-4*a*c)))/2*a;
-        r2= (-b-(Math.sqrt(b*b-4*a*c)))/2*a;
-        System.out.println("one root of the equation is " + r1 );
-        System.out.println("another root of the equation is " + r2);
+float l,b,h,area,volume;
+        System.out.println("lenth of the cuboid");
+        l= sc.nextFloat();
+        System.out.println("breadth of the cuboid");
+        b= sc.nextFloat();
+        System.out.println("height of the cuboid");
+        h=sc.nextFloat();
+         area=2*((l*b)+(b*h)+(h*l));
+        System.out.println(" Total area of the cuboid is " + area);
+
+        volume=l*b*h;
+
+        System.out.println("volume of the cuboid is " + volume);
 
     }
 
