@@ -4,21 +4,19 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 
-float a,b,c,s;
- double Area;
-        System.out.println("enter value of a");
+float a,b,c;
+double r1,r2;
+        System.out.println("give the the value of a which is the coefficient of x^2 ");
         a= sc.nextFloat();
-        System.out.println("enter value of b");
-        b= sc.nextFloat();
-        System.out.println("enter the value of c");
+        System.out.println("give the the value of b which is the coefficient of x");
+        b=sc.nextFloat();
+        System.out.println("give the value of c which is constant term");
         c= sc.nextFloat();
-       s=(a+b+c)/2;
-        Area=Math.sqrt(s*(s-a)*(s-b)*(s-c));
+        r1= (-b+(Math.sqrt(b*b-4*a*c)))/2*a;
+        r2= (-b-(Math.sqrt(b*b-4*a*c)))/2*a;
+        System.out.println("one root of the equation is " + r1 );
+        System.out.println("another root of the equation is " + r2);
 
-        System.out.println("slant height of the Traingle = "+ s );
-
-        System.out.println("Area of the Trangle is " + Area);
-        
     }
 
 }
