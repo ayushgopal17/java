@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="to find the a">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +147,39 @@
       <option name="project" value="LOCAL" />
       <updated>1706953076307</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="to find area of traingle with base and height with even float values">
+      <option name="closed" value="true" />
+      <created>1706953187409</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706953187409</updated>
+    </task>
+    <task id="LOCAL-00013" summary="to find the Area of any trainle using slant height">
+      <option name="closed" value="true" />
+      <created>1706956212273</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706956212273</updated>
+    </task>
+    <task id="LOCAL-00014" summary="To find the Roots of Quadratic equation">
+      <option name="closed" value="true" />
+      <created>1706957986835</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706957986835</updated>
+    </task>
+    <task id="LOCAL-00015" summary="to find the area and volume of cuboid">
+      <option name="closed" value="true" />
+      <created>1706958872071</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706958872071</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +215,11 @@
     <MESSAGE value="divider and float" />
     <MESSAGE value="uses of and priority of brackets" />
     <MESSAGE value="to find area of traingle with base and height" />
-    <option name="LAST_COMMIT_MESSAGE" value="to find area of traingle with base and height" />
+    <MESSAGE value="to find area of traingle with base and height with even float values" />
+    <MESSAGE value="to find the Area of any trainle using slant height" />
+    <MESSAGE value="To find the Roots of Quadratic equation" />
+    <MESSAGE value="to find the a" />
+    <MESSAGE value="to find the area and volume of cuboid" />
+    <option name="LAST_COMMIT_MESSAGE" value="to find the area and volume of cuboid" />
   </component>
 </project>
