@@ -3,14 +3,17 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-       int a=10, b=15 ;
+       int a=9, b=12;
 
-       a=a^b;
-       b=a^b;
-       a=a^b;
+       byte c ;
 
 
-        System.out.println(a+"  "+b);
+       c=(byte)(a<<4);
+       c=(byte)(c|b);
+        System.out.println((c&0b11110000)>>4);
+
+
+
 
 
     }
