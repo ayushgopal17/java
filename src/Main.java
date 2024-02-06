@@ -3,9 +3,15 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        int x=10,y=6,z;
-         z=x&y;
-        System.out.println(z);
+       int a=10, b=15 ;
+
+       a=a^b;
+       b=a^b;
+       a=a^b;
+
+
+        System.out.println(a+"  "+b);
+
 
     }
 
