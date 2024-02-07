@@ -2,17 +2,22 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+ byte b=5;
+ short s=120;
+ int i=10;
+ //flost f=10;
+ float f=10.5f;
+ double d=10;
+ char c=10;
+ boolean bl=true;
+        System.out.println(b);
+        i=s;
+     //   l=s;
+       // f=s;
+        d=s;
 
-       int a=9, b=12;
-
-       byte c ;
-
-
-       c=(byte)(a<<4);
-       c=(byte)(c|b);
-        System.out.println((c&0b11110000)>>4);
-
-
+        i=(int)f;
+        System.out.println(i);
 
 
 
