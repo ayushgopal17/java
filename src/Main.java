@@ -4,16 +4,12 @@ public class Main {
     public static void main(String[] args) {
 
 
-          int a=10;
-          float b=10.55f;
-          char c='A';
-          String str="hello";
+          int x=10;
+          float y=12.56f;
+          char z='A';
+          String str="java program";
 
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
-        System.out.println(str);
-
+        System.out.printf("Hello %s \n",str);
     }
 
     }
