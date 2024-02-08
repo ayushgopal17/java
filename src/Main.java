@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-          int x=10;
+          int x=11;
           float y=12.56f;
           char z='A';
           String str="java program";
