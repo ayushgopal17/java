@@ -6,7 +6,10 @@ public class Main {
         String str1="java programm";
         String str2=new String("java");
 
-        System.out.println(str2);
+        char c[]={'h','e','l','l','o'};
+        String str3=new String (c);
+
+        System.out.println(str3);
 
 
 
