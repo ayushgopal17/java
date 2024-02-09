@@ -14,7 +14,7 @@ public class Main {
         String str4=new String(b,1,2);
 
 
-        System.out.println(str4);
+        System.out.println(str3);
 
 
 
