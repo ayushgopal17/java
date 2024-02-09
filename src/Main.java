@@ -4,7 +4,11 @@ public class Main {
     public static void main(String[] args) {
 
         String str1="java programm";
-        System.out.println(str1);
+        String str2=new String("java");
+
+        System.out.println(str2);
+
+
 
     }
     }
