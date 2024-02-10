@@ -331,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707571769241</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="string uppercase">
+      <option name="closed" value="true" />
+      <created>1707571970691</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1707571970691</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,7 +364,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="symbols and its unicode" />
     <MESSAGE value="symbols and its unicode for hindi" />
     <MESSAGE value="divider and float" />
     <MESSAGE value="uses of and priority of brackets" />
@@ -381,7 +388,8 @@
     <MESSAGE value="String pactice" />
     <MESSAGE value="String pactice and equality" />
     <MESSAGE value="string" />
-    <option name="LAST_COMMIT_MESSAGE" value="string" />
+    <MESSAGE value="string uppercase" />
+    <option name="LAST_COMMIT_MESSAGE" value="string uppercase" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
