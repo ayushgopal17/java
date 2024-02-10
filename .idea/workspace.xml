@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -291,7 +292,31 @@
       <option name="project" value="LOCAL" />
       <updated>1707478291489</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="stringa">
+      <option name="closed" value="true" />
+      <created>1707479418463</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1707479418463</updated>
+    </task>
+    <task id="LOCAL-00031" summary="string index">
+      <option name="closed" value="true" />
+      <created>1707479449781</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1707479449781</updated>
+    </task>
+    <task id="LOCAL-00032" summary="String pactice">
+      <option name="closed" value="true" />
+      <created>1707479687982</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1707479687982</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,9 +341,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="literals" />
-    <MESSAGE value="sum of TWO NUMBERS" />
-    <MESSAGE value="integer to binary conversion" />
     <MESSAGE value="integer to binary conversion in 2's compliment form" />
     <MESSAGE value="symbols and its unicode" />
     <MESSAGE value="symbols and its unicode for hindi" />
@@ -341,7 +363,10 @@
     <MESSAGE value="java bitwise" />
     <MESSAGE value="string m3" />
     <MESSAGE value="stringa m3" />
-    <option name="LAST_COMMIT_MESSAGE" value="stringa m3" />
+    <MESSAGE value="stringa" />
+    <MESSAGE value="string index" />
+    <MESSAGE value="String pactice" />
+    <option name="LAST_COMMIT_MESSAGE" value="String pactice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -350,6 +375,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>3</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
