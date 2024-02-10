@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -323,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707552795586</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="string">
+      <option name="closed" value="true" />
+      <created>1707571769241</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1707571769241</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,7 +372,6 @@
     <MESSAGE value="swapping two numbers" />
     <MESSAGE value="wide narrow demo" />
     <MESSAGE value="printing" />
-    <MESSAGE value="string" />
     <MESSAGE value="strings m2" />
     <MESSAGE value="java bitwise" />
     <MESSAGE value="string m3" />
@@ -373,7 +380,8 @@
     <MESSAGE value="string index" />
     <MESSAGE value="String pactice" />
     <MESSAGE value="String pactice and equality" />
-    <option name="LAST_COMMIT_MESSAGE" value="String pactice and equality" />
+    <MESSAGE value="string" />
+    <option name="LAST_COMMIT_MESSAGE" value="string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -385,7 +393,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>6</line>
+          <line>5</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
