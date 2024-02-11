@@ -3,16 +3,13 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-   String str=new String("netbeans");
+        String str1="mr. Sharukh khan";
 
-        String str2=str.replace('e','m');
+        System.out.println(str1.startsWith("mr"));
 
-
-        System.out.println(str2);
 
     }
-    }
-
+}
 
 
 
