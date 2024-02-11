@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        String str1 = "mr. Shahrukh khan";
+        String str1 = "www.udemy.co.in";
 
-        for (int i = 0; i < str1.length(); i++)
 
-            System.out.print(str1.charAt(i));
+
+            System.out.print(str1.indexOf(".",4));
 
     }
     }
