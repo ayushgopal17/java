@@ -3,14 +3,16 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-   String str=new String("   netbeans   ");
+   String str=new String("netbeans");
 
-        System.out.println(str);
-    str=str.trim();
+        String str2=str.replace('e','m');
 
-        System.out.println(str);
+
+        System.out.println(str2);
 
     }
     }
+
+
 
 
