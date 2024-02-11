@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -353,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707662198629</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="string practice">
+      <option name="closed" value="true" />
+      <created>1707663228573</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1707663228573</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,7 +388,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="uses of and priority of brackets" />
     <MESSAGE value="to find area of traingle with base and height" />
     <MESSAGE value="to find area of traingle with base and height with even float values" />
     <MESSAGE value="to find the Area of any trainle using slant height" />
@@ -403,7 +412,8 @@
     <MESSAGE value="string uppercase" />
     <MESSAGE value="string space trimming" />
     <MESSAGE value="string space replacement" />
-    <option name="LAST_COMMIT_MESSAGE" value="string space replacement" />
+    <MESSAGE value="string practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="string practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
