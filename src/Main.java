@@ -7,7 +7,7 @@ public class Main {
 
         for (int i = 0; i < str1.length(); i++)
 
-            System.out.println(str1.charAt(i));
+            System.out.print(str1.charAt(i));
 
     }
     }
