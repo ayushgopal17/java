@@ -5,7 +5,7 @@ public class Main {
 
         String str1="mr. Shahrukh khan";
 
-        System.out.println(  str1.startsWith("Shah", 4));
+        System.out.println(  str1.endsWith("khan"));
 
 
     }
