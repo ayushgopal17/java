@@ -7,7 +7,7 @@ public class Main {
 
 
 
-            System.out.print(str1.indexOf(".",4));
+            System.out.print(str1.lastIndexOf("."));
 
     }
     }
