@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        String str1 = "Pyramid";
+        String str1 = "pyramid";
 
         String str2 =new String ("Pyramid");
 
