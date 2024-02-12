@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,30 +59,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00006" summary="integer to binary conversion in 2's compliment form">
-      <option name="closed" value="true" />
-      <created>1706795283153</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1706795283153</updated>
-    </task>
-    <task id="LOCAL-00007" summary="symbols and its unicode">
-      <option name="closed" value="true" />
-      <created>1706796283112</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1706796283112</updated>
-    </task>
-    <task id="LOCAL-00008" summary="symbols and its unicode for hindi">
-      <option name="closed" value="true" />
-      <created>1706796632140</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1706796632140</updated>
     </task>
     <task id="LOCAL-00009" summary="divider and float">
       <option name="closed" value="true" />
@@ -451,7 +428,31 @@
       <option name="project" value="LOCAL" />
       <updated>1707762917093</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="string practice; matches">
+      <option name="closed" value="true" />
+      <created>1707763632357</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1707763632357</updated>
+    </task>
+    <task id="LOCAL-00056" summary="string practice; matches">
+      <option name="closed" value="true" />
+      <created>1707763726906</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1707763726906</updated>
+    </task>
+    <task id="LOCAL-00057" summary="string practice; matches">
+      <option name="closed" value="true" />
+      <created>1707763761740</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1707763761740</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
