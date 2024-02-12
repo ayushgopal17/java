@@ -3,14 +3,12 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        String str1 = "www.udemy.co.in";
+        String str1 = "pyramid";
 
+        String str2 = "pyramid";
 
-
-            System.out.print(str1.lastIndexOf("."));
+        System.out.println(str1.equals(str2));
 
     }
-    }
-
-
+}
 
