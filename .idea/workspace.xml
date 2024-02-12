@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -411,7 +412,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707758258786</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="string practice; equals">
+      <option name="closed" value="true" />
+      <created>1707759455175</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1707759455175</updated>
+    </task>
+    <task id="LOCAL-00046" summary="string practice; equalsignore cases">
+      <option name="closed" value="true" />
+      <created>1707759549526</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1707759549526</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -436,8 +453,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="to find the a" />
-    <MESSAGE value="increment decrement with variables" />
     <MESSAGE value="increment decrement with variables orderwise" />
     <MESSAGE value="bitwise opeator" />
     <MESSAGE value="swapping two numbers" />
@@ -461,7 +476,9 @@
     <MESSAGE value="string practice; loop" />
     <MESSAGE value="string practice; loop without ln" />
     <MESSAGE value="string practice; index" />
-    <option name="LAST_COMMIT_MESSAGE" value="string practice; index" />
+    <MESSAGE value="string practice; equals" />
+    <MESSAGE value="string practice; equalsignore cases" />
+    <option name="LAST_COMMIT_MESSAGE" value="string practice; equalsignore cases" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
