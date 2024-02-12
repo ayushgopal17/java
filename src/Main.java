@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        String str1="9k";
+        String str1=" ";
 
-
-        System.out.println(str1.matches("\\d"));
+// this is for space
+        System.out.println(str1.matches("\\s"));
 
     }
 }
