@@ -3,11 +3,12 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        String str1 = "f";
+        String str1 = "abc";
 
-       String str2=  " of china ";
 
-        System.out.println(str1.matches("."));
+
+       // here it required three dots because there are three alphabets in the string 1
+        System.out.println(str1.matches("..."));
 
     }
 }
