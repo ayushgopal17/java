@@ -5,9 +5,9 @@ public class Main {
 
         String str1 = "pyramid";
 
-        String str2 = "pyramid";
+        String str2 = "Pyramid";
 
-        System.out.println(str1.equals(str2));
+        System.out.println(str1.equalsIgnoreCase(str2));
 
     }
 }
