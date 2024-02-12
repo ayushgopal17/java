@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,22 +58,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00003" summary="name writing output code">
-      <option name="closed" value="true" />
-      <created>1706622591330</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1706622591330</updated>
-    </task>
-    <task id="LOCAL-00004" summary="literals">
-      <option name="closed" value="true" />
-      <created>1706709527176</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1706709527176</updated>
     </task>
     <task id="LOCAL-00005" summary="integer to binary conversion">
       <option name="closed" value="true" />
@@ -451,7 +435,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707760492278</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="string practice; mathes">
+      <option name="closed" value="true" />
+      <created>1707762424872</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1707762424872</updated>
+    </task>
+    <task id="LOCAL-00053" summary="string practice; matches">
+      <option name="closed" value="true" />
+      <created>1707762614692</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1707762614692</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -476,8 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="printing" />
-    <MESSAGE value="strings m2" />
     <MESSAGE value="java bitwise" />
     <MESSAGE value="string m3" />
     <MESSAGE value="stringa m3" />
@@ -501,7 +499,9 @@
     <MESSAGE value="string practice; compare to and  it gives diffrence" />
     <MESSAGE value="string practice; contains" />
     <MESSAGE value="string practice; string addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="string practice; string addition" />
+    <MESSAGE value="string practice; mathes" />
+    <MESSAGE value="string practice; matches" />
+    <option name="LAST_COMMIT_MESSAGE" value="string practice; matches" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
