@@ -5,6 +5,7 @@ public class Main {
 
         String str1=" ";
 
+
 // this is for space
         System.out.println(str1.matches("\\s"));
 
