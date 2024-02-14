@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        String str1="accaaaa";
+        String str1="john@gmail.com";
 
-        // this wiil be false beacuse + means 1 or more and * means 0 or more
+        // .* means here dot means anything and * means any no. of times and combine it says any thing any no. of times before
 
-        System.out.println(str1.matches("[abc]{3,7}"));
+        System.out.println(str1.matches(".*@gmail.com"));
 
 
     }
