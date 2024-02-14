@@ -57,14 +57,6 @@
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
     </task>
-    <task id="LOCAL-00013" summary="to find the Area of any trainle using slant height">
-      <option name="closed" value="true" />
-      <created>1706956212273</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1706956212273</updated>
-    </task>
     <task id="LOCAL-00014" summary="To find the Roots of Quadratic equation">
       <option name="closed" value="true" />
       <created>1706957986835</created>
@@ -449,7 +441,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707836064950</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="string practice; matches">
+      <option name="closed" value="true" />
+      <created>1707926903029</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1707926903030</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

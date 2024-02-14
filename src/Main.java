@@ -3,11 +3,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        String str1=" ";
+        String str1="abcdef";
 
+        System.out.println(str1.matches(".*"));
 
-// this is for space
-        System.out.println(str1.matches("\\s"));
 
     }
 }
