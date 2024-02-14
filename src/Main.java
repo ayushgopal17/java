@@ -5,7 +5,7 @@ public class Main {
 
         String str1="abbbcccaaac";
 
-        System.out.println(str1.matches("[abc]*"));
+        System.out.println(str1.matches("[abc]+"));
 
 
     }
