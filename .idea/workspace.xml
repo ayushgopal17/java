@@ -59,38 +59,6 @@
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
     </task>
-    <task id="LOCAL-00016" summary="increment decrement with variables">
-      <option name="closed" value="true" />
-      <created>1707054752383</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1707054752383</updated>
-    </task>
-    <task id="LOCAL-00017" summary="increment decrement with variables orderwise">
-      <option name="closed" value="true" />
-      <created>1707055145365</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1707055145365</updated>
-    </task>
-    <task id="LOCAL-00018" summary="bitwise opeator">
-      <option name="closed" value="true" />
-      <created>1707059366657</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1707059366657</updated>
-    </task>
-    <task id="LOCAL-00019" summary="bitwise opeator">
-      <option name="closed" value="true" />
-      <created>1707227960731</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1707227960731</updated>
-    </task>
     <task id="LOCAL-00020" summary="swapping two numbers">
       <option name="closed" value="true" />
       <created>1707228744925</created>
@@ -451,7 +419,39 @@
       <option name="project" value="LOCAL" />
       <updated>1707927608860</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="string practice; matches: *and [abc]">
+      <option name="closed" value="true" />
+      <created>1707927740244</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1707927740244</updated>
+    </task>
+    <task id="LOCAL-00066" summary="string practice; matches: + and [abc]">
+      <option name="closed" value="true" />
+      <created>1707927767785</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1707927767785</updated>
+    </task>
+    <task id="LOCAL-00067" summary="string practice; matches: + and [abc]">
+      <option name="closed" value="true" />
+      <created>1707927852061</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1707927852061</updated>
+    </task>
+    <task id="LOCAL-00068" summary="string practice; matches: + and [abc]{3}">
+      <option name="closed" value="true" />
+      <created>1707927920932</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1707927920932</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -476,9 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stringa m3" />
-    <MESSAGE value="stringa" />
-    <MESSAGE value="string index" />
     <MESSAGE value="String pactice" />
     <MESSAGE value="String pactice and equality" />
     <MESSAGE value="string" />
@@ -501,7 +498,10 @@
     <MESSAGE value="string practice; matches" />
     <MESSAGE value="string practice; matches &quot;*&quot;" />
     <MESSAGE value="string practice; matches: *and [a-z]" />
-    <option name="LAST_COMMIT_MESSAGE" value="string practice; matches: *and [a-z]" />
+    <MESSAGE value="string practice; matches: *and [abc]" />
+    <MESSAGE value="string practice; matches: + and [abc]" />
+    <MESSAGE value="string practice; matches: + and [abc]{3}" />
+    <option name="LAST_COMMIT_MESSAGE" value="string practice; matches: + and [abc]{3}" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
