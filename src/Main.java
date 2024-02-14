@@ -5,7 +5,7 @@ public class Main {
 
         String str1="abcdef";
 
-        System.out.println(str1.matches(".*"));
+        System.out.println(str1.matches("[a-z]*"));
 
 
     }
