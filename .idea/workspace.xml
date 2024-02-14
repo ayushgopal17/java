@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,22 +58,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00014" summary="To find the Roots of Quadratic equation">
-      <option name="closed" value="true" />
-      <created>1706957986835</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1706957986835</updated>
-    </task>
-    <task id="LOCAL-00015" summary="to find the area and volume of cuboid">
-      <option name="closed" value="true" />
-      <created>1706958872071</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1706958872071</updated>
     </task>
     <task id="LOCAL-00016" summary="increment decrement with variables">
       <option name="closed" value="true" />
@@ -449,7 +435,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707926903030</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="string practice; matches &quot;*&quot;">
+      <option name="closed" value="true" />
+      <created>1707927449377</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1707927449377</updated>
+    </task>
+    <task id="LOCAL-00064" summary="string practice; matches: *and [a-z]">
+      <option name="closed" value="true" />
+      <created>1707927608860</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1707927608860</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,8 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="java bitwise" />
-    <MESSAGE value="string m3" />
     <MESSAGE value="stringa m3" />
     <MESSAGE value="stringa" />
     <MESSAGE value="string index" />
@@ -499,7 +499,9 @@
     <MESSAGE value="string practice; string addition" />
     <MESSAGE value="string practice; mathes" />
     <MESSAGE value="string practice; matches" />
-    <option name="LAST_COMMIT_MESSAGE" value="string practice; matches" />
+    <MESSAGE value="string practice; matches &quot;*&quot;" />
+    <MESSAGE value="string practice; matches: *and [a-z]" />
+    <option name="LAST_COMMIT_MESSAGE" value="string practice; matches: *and [a-z]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
