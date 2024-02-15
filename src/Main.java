@@ -13,5 +13,12 @@ public class Main {
 
         System.out.println("username = "+uname);
         System.out.println("domainname = "+domainname);
+        System.out.println(domainname.startsWith("gmail.com"));
+
+      int j=domainname.indexOf(".");
+       String name=domainname.substring(0,j);
+        System.out.println(name.equals("gmail"));
+
+
     }
 }

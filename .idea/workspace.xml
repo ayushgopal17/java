@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="student challange">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -59,22 +59,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00023" summary="printing">
-      <option name="closed" value="true" />
-      <created>1707299383597</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1707299383597</updated>
-    </task>
-    <task id="LOCAL-00024" summary="printing">
-      <option name="closed" value="true" />
-      <created>1707302638813</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1707302638813</updated>
     </task>
     <task id="LOCAL-00025" summary="java bitwise">
       <option name="closed" value="true" />
@@ -452,7 +436,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707993537173</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="student challange">
+      <option name="closed" value="true" />
+      <created>1708005712341</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1708005712341</updated>
+    </task>
+    <task id="LOCAL-00073" summary="student challange">
+      <option name="closed" value="true" />
+      <created>1708005821705</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1708005821706</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,7 +477,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string" />
     <MESSAGE value="string uppercase" />
     <MESSAGE value="string space trimming" />
     <MESSAGE value="string space replacement" />
@@ -502,7 +501,8 @@
     <MESSAGE value="string practice; matches: + and [abc]{3}" />
     <MESSAGE value="string practice; matches: + and [abc]{3,7}" />
     <MESSAGE value="string practice; checking @gmail.com" />
-    <option name="LAST_COMMIT_MESSAGE" value="string practice; checking @gmail.com" />
+    <MESSAGE value="student challange" />
+    <option name="LAST_COMMIT_MESSAGE" value="student challange" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
