@@ -1,14 +1,17 @@
 import java.util.Scanner;
 
 public class Main {
+
     public static void main(String[] args) {
 
-        String str1="john@gmail.com";
+     String str1="programmer@gmail.com";
 
-        // .* means here dot means anything and * means any no. of times and combine it says any thing any no. of times before
+       int i=str1.indexOf("@");
 
-        System.out.println(str1.matches("\\w*@gmail(.*)"));
+       String uname= str1.substring(0,i);
+       String domainname=str1.substring(i+1, str1.length());
 
-
+        System.out.println(uname);
+        System.out.println(domainname);
     }
 }
