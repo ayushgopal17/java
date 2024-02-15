@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-     int b=1100010;
-     String str=b+"";
-        System.out.println(str.matches("[01]*"));
+     String str="1117AC62";
+
+        System.out.println(str.matches("[0-9A-F]+"));
 
     }
 }
