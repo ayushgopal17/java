@@ -7,7 +7,7 @@ public class Main {
 
         // .* means here dot means anything and * means any no. of times and combine it says any thing any no. of times before
 
-        System.out.println(str1.matches(".*@gmail.com"));
+        System.out.println(str1.matches("\\w*@gmail(.*)"));
 
 
     }
