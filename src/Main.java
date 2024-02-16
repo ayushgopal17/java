@@ -4,10 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-     String r="a!B@c#1$%3";
+     String r="abc   de   fgh   i";
 
 
-        System.out.println(r.replaceAll("[^a-zA-Z0-9]","f"));
+        System.out.println(r.replaceAll("\\s+"," "));
 
     }
 }
