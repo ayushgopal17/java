@@ -4,10 +4,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-     String r="abc   de   fgh   i";
+     String r="             abc       de               fgh   i";
 
+       r=r.replaceAll("\\s+"," ").trim();
 
-        System.out.println(r.replaceAll("\\s+"," "));
+        String words[]=r.split("\\s");
+
+        System.out.println(words.length);
 
     }
 }
