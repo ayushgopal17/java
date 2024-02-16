@@ -60,30 +60,6 @@
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
     </task>
-    <task id="LOCAL-00026" summary="string">
-      <option name="closed" value="true" />
-      <created>1707477612493</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1707477612493</updated>
-    </task>
-    <task id="LOCAL-00027" summary="strings m2">
-      <option name="closed" value="true" />
-      <created>1707477783369</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1707477783369</updated>
-    </task>
-    <task id="LOCAL-00028" summary="string m3">
-      <option name="closed" value="true" />
-      <created>1707478023074</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1707478023074</updated>
-    </task>
     <task id="LOCAL-00029" summary="stringa m3">
       <option name="closed" value="true" />
       <created>1707478291488</created>
@@ -452,7 +428,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708006569191</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="student challange 2">
+      <option name="closed" value="true" />
+      <created>1708007460658</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1708007460658</updated>
+    </task>
+    <task id="LOCAL-00076" summary="student challange 2 (ii)">
+      <option name="closed" value="true" />
+      <created>1708007692346</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1708007692346</updated>
+    </task>
+    <task id="LOCAL-00077" summary="student challange 2 (iii)">
+      <option name="closed" value="true" />
+      <created>1708008162568</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1708008162568</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,9 +477,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string uppercase" />
-    <MESSAGE value="string space trimming" />
-    <MESSAGE value="string space replacement" />
     <MESSAGE value="string practice" />
     <MESSAGE value="string practice; starts with" />
     <MESSAGE value="string practice; ends with" />
@@ -502,7 +499,10 @@
     <MESSAGE value="string practice; matches: + and [abc]{3,7}" />
     <MESSAGE value="string practice; checking @gmail.com" />
     <MESSAGE value="student challange" />
-    <option name="LAST_COMMIT_MESSAGE" value="student challange" />
+    <MESSAGE value="student challange 2" />
+    <MESSAGE value="student challange 2 (ii)" />
+    <MESSAGE value="student challange 2 (iii)" />
+    <option name="LAST_COMMIT_MESSAGE" value="student challange 2 (iii)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

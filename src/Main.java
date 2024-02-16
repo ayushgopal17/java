@@ -4,9 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-     String d="01/12/2000";
+     String r="a!B@c#1$%3";
 
-        System.out.println(d.matches("[0-3][0-9]/[01][0-9]/[0-9]{4}"));
+
+        System.out.println(r.replaceAll("[^a-zA-Z0-9]",""));
 
     }
 }
