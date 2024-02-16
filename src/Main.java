@@ -7,7 +7,7 @@ public class Main {
      String r="a!B@c#1$%3";
 
 
-        System.out.println(r.replaceAll("[^a-zA-Z0-9]",""));
+        System.out.println(r.replaceAll("[^a-zA-Z0-9]","f"));
 
     }
 }
