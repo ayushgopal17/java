@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,30 +59,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00036" summary="string space trimming">
-      <option name="closed" value="true" />
-      <created>1707572168772</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1707572168772</updated>
-    </task>
-    <task id="LOCAL-00037" summary="string space replacement">
-      <option name="closed" value="true" />
-      <created>1707662198629</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1707662198629</updated>
-    </task>
-    <task id="LOCAL-00038" summary="string practice">
-      <option name="closed" value="true" />
-      <created>1707663228573</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1707663228573</updated>
     </task>
     <task id="LOCAL-00039" summary="string practice; starts with">
       <option name="closed" value="true" />
@@ -451,7 +428,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708193876265</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="conditionals &amp;&amp; both shouble be true">
+      <option name="closed" value="true" />
+      <created>1708193944611</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1708193944611</updated>
+    </task>
+    <task id="LOCAL-00086" summary="conditionals || this is or it means one should be true">
+      <option name="closed" value="true" />
+      <created>1708194006524</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1708194006524</updated>
+    </task>
+    <task id="LOCAL-00087" summary="conditionals for float">
+      <option name="closed" value="true" />
+      <created>1708194087821</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1708194087821</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -476,9 +477,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string practice; index" />
-    <MESSAGE value="string practice; equals" />
-    <MESSAGE value="string practice; equalsignore cases" />
     <MESSAGE value="string practice; compare to" />
     <MESSAGE value="string practice; compare to and  it gives diffrence" />
     <MESSAGE value="string practice; contains" />
@@ -501,6 +499,9 @@
     <MESSAGE value="student challange 3 (ii) removing spaces and counting no. of words" />
     <MESSAGE value="conditionals" />
     <MESSAGE value="conditionals &amp;&amp;" />
-    <option name="LAST_COMMIT_MESSAGE" value="conditionals &amp;&amp;" />
+    <MESSAGE value="conditionals &amp;&amp; both shouble be true" />
+    <MESSAGE value="conditionals || this is or it means one should be true" />
+    <MESSAGE value="conditionals for float" />
+    <option name="LAST_COMMIT_MESSAGE" value="conditionals for float" />
   </component>
 </project>

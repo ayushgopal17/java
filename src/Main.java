@@ -1,11 +1,20 @@
 
-package Main;
 
-public class Main {
-    public static void main(String[] args) {
 
-        float a=5.4f, b=10.5f, c=15;
+public class Main
+{
+    public static void main(String[] args)
+    {
+        int n=5;
 
-        System.out.println(a<b );
+        if(n>=0)
+        {
+            System.out.println("positive");
+        }
+        else
+        {
+            System.out.println("negative");
+        }
     }
 }
+
