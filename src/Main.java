@@ -1,16 +1,12 @@
-import java.util.Scanner;
+
+package Main;
 
 public class Main {
-
     public static void main(String[] args) {
 
-     String r="             abc       de               fgh   i";
+        int a=5, b=10, c=15;
 
-       r=r.replaceAll("\\s+"," ").trim();
-
-        String words[]=r.split("\\s");
-
-        System.out.println(words.length);
-
+        System.out.println(a<b);
     }
+
 }
