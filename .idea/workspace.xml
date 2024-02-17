@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,14 +56,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00032" summary="String pactice">
-      <option name="closed" value="true" />
-      <created>1707479687982</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1707479687982</updated>
     </task>
     <task id="LOCAL-00033" summary="String pactice and equality">
       <option name="closed" value="true" />
@@ -452,7 +441,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708105549236</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="student challange 3 (ii) removing spaces and counting no. of words">
+      <option name="closed" value="true" />
+      <created>1708107973600</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1708107973600</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,7 +474,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string practice; ends with" />
     <MESSAGE value="string practice; loop" />
     <MESSAGE value="string practice; loop without ln" />
     <MESSAGE value="string practice; index" />
@@ -502,7 +498,8 @@
     <MESSAGE value="student challange 2 (iii)" />
     <MESSAGE value="student challange 3 (i)" />
     <MESSAGE value="student challange 3 (ii) removing spaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="student challange 3 (ii) removing spaces" />
+    <MESSAGE value="student challange 3 (ii) removing spaces and counting no. of words" />
+    <option name="LAST_COMMIT_MESSAGE" value="student challange 3 (ii) removing spaces and counting no. of words" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
