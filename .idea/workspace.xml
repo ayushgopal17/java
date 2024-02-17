@@ -51,6 +51,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,14 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00039" summary="string practice; starts with">
-      <option name="closed" value="true" />
-      <created>1707663420721</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1707663420721</updated>
     </task>
     <task id="LOCAL-00040" summary="string practice; ends with">
       <option name="closed" value="true" />
@@ -452,7 +458,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708194087821</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="if else">
+      <option name="closed" value="true" />
+      <created>1708194782410</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1708194782410</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string practice; compare to" />
     <MESSAGE value="string practice; compare to and  it gives diffrence" />
     <MESSAGE value="string practice; contains" />
     <MESSAGE value="string practice; string addition" />
@@ -502,6 +515,7 @@
     <MESSAGE value="conditionals &amp;&amp; both shouble be true" />
     <MESSAGE value="conditionals || this is or it means one should be true" />
     <MESSAGE value="conditionals for float" />
-    <option name="LAST_COMMIT_MESSAGE" value="conditionals for float" />
+    <MESSAGE value="if else" />
+    <option name="LAST_COMMIT_MESSAGE" value="if else" />
   </component>
 </project>

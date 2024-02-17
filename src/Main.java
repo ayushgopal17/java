@@ -1,20 +1,22 @@
 
 
 
-public class Main
-{
+public class Main {
     public static void main(String[] args)
     {
-        int n=5;
+        int a = 5, b = 15, c = 4;
 
-        if(n>=0)
+        if (a>b && a>c)
         {
-            System.out.println("positive");
+            System.out.println(a);
         }
+        else if (b > c)
+        {
+            System.out.println(b);
+        }
+
         else
-        {
-            System.out.println("negative");
-        }
+        System.out.println(c);
     }
 }
 
