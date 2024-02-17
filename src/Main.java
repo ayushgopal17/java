@@ -32,12 +32,11 @@ else if (average>=50 && average<=60)
     System.out.println("C");
 }
 
-else if (average>=40 && average<=50)
-{
+else if (average>=40 && average<=50) {
     System.out.println("A");
 
 }
-else if (average<40)
+else
 {
     System.out.println("F");
 }
