@@ -1,22 +1,20 @@
-
-
+import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args)
-    {
-        int a = 5, b = 15, c = 4;
+    public static void main(String[] args) {
 
-        if (a>b && a>c)
-        {
-            System.out.println(a);
-        }
-        else if (b > c)
-        {
-            System.out.println(b);
-        }
 
-        else
-        System.out.println(c);
+        Scanner scanner =new Scanner(System.in);
+
+        System.out.println("please enter a number");
+    int n = scanner.nextInt();
+
+    if(n%2<=0)
+        {
+            System.out.println("Even");
+        }
+        else {
+            System.out.println("Odd");
+        }
     }
 }
-
