@@ -74,14 +74,6 @@
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
     </task>
-    <task id="LOCAL-00041" summary="string practice; loop">
-      <option name="closed" value="true" />
-      <created>1707663690049</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1707663690049</updated>
-    </task>
     <task id="LOCAL-00042" summary="string practice; loop without ln">
       <option name="closed" value="true" />
       <created>1707663761585</created>
@@ -466,7 +458,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708195618514</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="to check where a number is odd or even">
+      <option name="closed" value="true" />
+      <created>1708197461291</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1708197461291</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string practice; compare to and  it gives diffrence" />
     <MESSAGE value="string practice; contains" />
     <MESSAGE value="string practice; string addition" />
     <MESSAGE value="string practice; mathes" />
@@ -516,6 +515,7 @@
     <MESSAGE value="conditionals || this is or it means one should be true" />
     <MESSAGE value="conditionals for float" />
     <MESSAGE value="if else" />
-    <option name="LAST_COMMIT_MESSAGE" value="if else" />
+    <MESSAGE value="to check where a number is odd or even" />
+    <option name="LAST_COMMIT_MESSAGE" value="to check where a number is odd or even" />
   </component>
 </project>
