@@ -7,38 +7,14 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("please enter  marks m1, m2, m3 ");
-        int m1 = scanner.nextInt();
-        int m2 = scanner.nextInt();
-        int m3 = scanner.nextInt();
+        System.out.println("please enter  number ");
+        St = scanner.nextInt();
 
 
-        System.out.println("total =" + (m1 + m2 + m3));
-        int average =( (m1 + m2 + m3) / 3);
+// easy hai bata raha hu pehle input le integer and then string and 3 bar define kar de brackets me range wise pehle 02 then 08 then 010 then 09 and Af aur sun * laga liyo
 
-        System.out.println(average);
-if (average>=70)
-        {
-            System.out.println("A");
-        }
+        System.out.println();
 
-        else if (average>=60 && average<=70)
-        {
-            System.out.println("B");
-        }
-
-else if (average>=50 && average<=60)
-{
-    System.out.println("C");
-}
-
-else if (average>=40 && average<=50) {
-    System.out.println("A");
-
-}
-else
-{
-    System.out.println("F");
 }
 
     }

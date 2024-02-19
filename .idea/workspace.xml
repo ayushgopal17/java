@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,14 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00044" summary="string practice; index">
-      <option name="closed" value="true" />
-      <created>1707758258786</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1707758258786</updated>
     </task>
     <task id="LOCAL-00045" summary="string practice; equals">
       <option name="closed" value="true" />
@@ -463,7 +458,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708200941809</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="find grades of marks of a class ii">
+      <option name="closed" value="true" />
+      <created>1708201077061</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1708201077061</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -488,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string practice; mathes" />
     <MESSAGE value="string practice; matches" />
     <MESSAGE value="string practice; matches &quot;*&quot;" />
     <MESSAGE value="string practice; matches: *and [a-z]" />
@@ -513,6 +515,7 @@
     <MESSAGE value="to check where a number is odd or even" />
     <MESSAGE value="to check where you are young or not young" />
     <MESSAGE value="find grades of marks of a class" />
-    <option name="LAST_COMMIT_MESSAGE" value="find grades of marks of a class" />
+    <MESSAGE value="find grades of marks of a class ii" />
+    <option name="LAST_COMMIT_MESSAGE" value="find grades of marks of a class ii" />
   </component>
 </project>
