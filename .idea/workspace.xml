@@ -74,14 +74,6 @@
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
     </task>
-    <task id="LOCAL-00045" summary="string practice; equals">
-      <option name="closed" value="true" />
-      <created>1707759455175</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1707759455175</updated>
-    </task>
     <task id="LOCAL-00046" summary="string practice; equalsignore cases">
       <option name="closed" value="true" />
       <created>1707759549526</created>
@@ -466,7 +458,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708201077061</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="find grades of marks of a class ii">
+      <option name="closed" value="true" />
+      <created>1708338001230</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1708338001230</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

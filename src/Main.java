@@ -5,17 +5,38 @@ public class Main {
 
         Package main;
 
+
         Scanner scanner = new Scanner(System.in);
 
+        String num ;
+
         System.out.println("please enter  number ");
-        St = scanner.nextInt();
+num= scanner.nextLine();
 
+       if(num.matches("[01]+"))
+               {
+                       System.out.println("binary");
+      }
+       else if (num.matches("[0-7]+")) {
+           System.out.println("octal");
+       }
+       else if (num.matches("[0-9]+"))
+       {
+           System.out.println("decimal");
 
-// easy hai bata raha hu pehle input le integer and then string and 3 bar define kar de brackets me range wise pehle 02 then 08 then 010 then 09 and Af aur sun * laga liyo
+       }
+       else if (num.matches("[0-9A-F]+"))
 
-        System.out.println();
+       {
+           System.out.println("hexadecimal");
+       }
+       else
+       {
+           System.out.println("not a number");
 
-}
-
+       }
     }
+
 }
+
+
