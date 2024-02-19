@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="a number is decimal octadecimal binary or hexadecimal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -73,14 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00046" summary="string practice; equalsignore cases">
-      <option name="closed" value="true" />
-      <created>1707759549526</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1707759549526</updated>
     </task>
     <task id="LOCAL-00047" summary="string practice; compare to">
       <option name="closed" value="true" />
@@ -466,7 +458,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708338001230</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="a number is decimal octadecimal binary or hexadecimal">
+      <option name="closed" value="true" />
+      <created>1708354296668</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1708354296668</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string practice; matches" />
     <MESSAGE value="string practice; matches &quot;*&quot;" />
     <MESSAGE value="string practice; matches: *and [a-z]" />
     <MESSAGE value="string practice; matches: *and [abc]" />
@@ -516,6 +515,7 @@
     <MESSAGE value="to check where you are young or not young" />
     <MESSAGE value="find grades of marks of a class" />
     <MESSAGE value="find grades of marks of a class ii" />
-    <option name="LAST_COMMIT_MESSAGE" value="find grades of marks of a class ii" />
+    <MESSAGE value="a number is decimal octadecimal binary or hexadecimal" />
+    <option name="LAST_COMMIT_MESSAGE" value="a number is decimal octadecimal binary or hexadecimal" />
   </component>
 </project>

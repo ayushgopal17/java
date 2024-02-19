@@ -8,35 +8,25 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        String num ;
+        int num;
 
         System.out.println("please enter  number ");
-num= scanner.nextLine();
 
-       if(num.matches("[01]+"))
-               {
-                       System.out.println("binary");
-      }
-       else if (num.matches("[0-7]+")) {
-           System.out.println("octal");
-       }
-       else if (num.matches("[0-9]+"))
-       {
-           System.out.println("decimal");
+        num = scanner.nextInt();
 
-       }
-       else if (num.matches("[0-9A-F]+"))
+        if ((num % 4)== 0) {
 
-       {
-           System.out.println("hexadecimal");
-       }
-       else
-       {
-           System.out.println("not a number");
+            if (num % 100 == 0) {
 
-       }
-    }
+                if (num % 400 == 0) {
+                    System.out.println("leap year");
+                } else {
+                    System.out.println("not a leap year");
+                }
+            } else {
+                System.out.println("not a leap year");
+            }
+        }}}
 
-}
 
 
