@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="a number is decimal octadecimal binary or hexadecimal">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,14 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00047" summary="string practice; compare to">
-      <option name="closed" value="true" />
-      <created>1707759920654</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1707759920654</updated>
     </task>
     <task id="LOCAL-00048" summary="string practice; compare to and  it gives diffrence">
       <option name="closed" value="true" />
@@ -466,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708354296668</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="to check whether a year is leap year or not">
+      <option name="closed" value="true" />
+      <created>1708376191680</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1708376191680</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,7 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string practice; matches &quot;*&quot;" />
     <MESSAGE value="string practice; matches: *and [a-z]" />
     <MESSAGE value="string practice; matches: *and [abc]" />
     <MESSAGE value="string practice; matches: + and [abc]" />
@@ -516,6 +512,7 @@
     <MESSAGE value="find grades of marks of a class" />
     <MESSAGE value="find grades of marks of a class ii" />
     <MESSAGE value="a number is decimal octadecimal binary or hexadecimal" />
-    <option name="LAST_COMMIT_MESSAGE" value="a number is decimal octadecimal binary or hexadecimal" />
+    <MESSAGE value="to check whether a year is leap year or not" />
+    <option name="LAST_COMMIT_MESSAGE" value="to check whether a year is leap year or not" />
   </component>
 </project>
