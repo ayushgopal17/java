@@ -1,61 +1,45 @@
 import java.util.*;
-
 public class Main {
     public static void main(String[] args) {
-
         Scanner scanner=new Scanner(System.in);
         System.out.println("enter a number");
         int num=scanner.nextInt();
         switch (num)
         {
+            case 0:
+                System.out.println("zero");
+             break;
             case 1:
-                System.out.println("jan");
+                System.out.println("one");
                 break;
             case 2:
-                System.out.println("feb");
+                System.out.println("two");
                 break;
             case 3:
-                System.out.println("march");
+                System.out.println("three");
                 break;
             case 4:
-                System.out.println("april");
+                System.out.println("four");
                 break;
             case 5:
-                System.out.println("may");
+                System.out.println("five");
                 break;
             case 6:
-                System.out.println("june");
+                System.out.println("six");
                 break;
             case 7:
-                System.out.println("july");
+                System.out.println("seven");
                 break;
-
             case 8:
-                System.out.println("aug");
+                System.out.println("eight");
                 break;
-
             case 9:
-                System.out.println("sept");
-                break;
-
-            case 10:
-                System.out.println("oct");
-                break;
-
-            case 11:
-                System.out.println("nov");
-                break;
-
-            case 12:
-                System.out.println("dec");
+                System.out.println("nine");
                 break;
             default:
                 System.out.println("invalid number");
-
-
-
+                break;
         }
 
     }
 }
-
