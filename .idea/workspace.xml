@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="to check whether a year is leap year or not.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +43,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -73,14 +74,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00051" summary="string practice; string addition">
-      <option name="closed" value="true" />
-      <created>1707760492277</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1707760492278</updated>
     </task>
     <task id="LOCAL-00052" summary="string practice; mathes">
       <option name="closed" value="true" />
@@ -466,7 +459,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708377585465</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="to check whether a year is leap year or not">
+      <option name="closed" value="true" />
+      <created>1708425076634</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1708425076634</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -514,8 +515,8 @@
     <MESSAGE value="find grades of marks of a class" />
     <MESSAGE value="find grades of marks of a class ii" />
     <MESSAGE value="a number is decimal octadecimal binary or hexadecimal" />
-    <MESSAGE value="to check whether a year is leap year or not" />
     <MESSAGE value="to check whether a year is leap year or not." />
-    <option name="LAST_COMMIT_MESSAGE" value="to check whether a year is leap year or not." />
+    <MESSAGE value="to check whether a year is leap year or not" />
+    <option name="LAST_COMMIT_MESSAGE" value="to check whether a year is leap year or not" />
   </component>
 </project>

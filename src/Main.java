@@ -8,25 +8,34 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        int num;
+        int day;
 
-        System.out.println("please enter  number ");
+        System.out.println("please enter a number number ");
 
-        num = scanner.nextInt();
+        day = scanner.nextInt();
 
-        if ((num % 4)== 0) {
-
-            if (num % 100 == 0) {
-
-                if (num % 400 == 0) {
-                    System.out.println("leap year");
-                } else {
-                    System.out.println("not a leap year");
-                }
-            } else {
-                System.out.println("not a leap year");
-            }
-        }}}
+        if (day == 1) {
+            System.out.println("Monday");
+        } else if (day == 2) {
+            System.out.println("Tuesday");
+        } else if (day == 3) {
+            System.out.println("wednesday");
+        } else if (day == 4) {
+            System.out.println("Thusday");
+        } else if (day == 5) {
+            System.out.println("Friday");
+        } else if (day == 6) {
+            System.out.println("saturday");
+        }
+        else if (day == 7) {
+            System.out.println("sunday");
+        }
+        else
+        {
+            System.out.println("invalid Day number");
+        }
+    }
+}
 
 
 
