@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="to know the month name by number">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="to know the number by entering digits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,14 +79,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00057" summary="string practice; matches">
-      <option name="closed" value="true" />
-      <created>1707763761740</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1707763761740</updated>
     </task>
     <task id="LOCAL-00058" summary="string practice; matches">
       <option name="closed" value="true" />
@@ -474,7 +464,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708461621785</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="to know the number by entering digits">
+      <option name="closed" value="true" />
+      <created>1708462170340</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1708462170340</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="student challange" />
     <MESSAGE value="student challange 2" />
     <MESSAGE value="student challange 2 (ii)" />
     <MESSAGE value="student challange 2 (iii)" />
@@ -524,6 +521,7 @@
     <MESSAGE value="entering url and knowing its type" />
     <MESSAGE value="practicing switch case" />
     <MESSAGE value="to know the month name by number" />
-    <option name="LAST_COMMIT_MESSAGE" value="to know the month name by number" />
+    <MESSAGE value="to know the number by entering digits" />
+    <option name="LAST_COMMIT_MESSAGE" value="to know the number by entering digits" />
   </component>
 </project>
