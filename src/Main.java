@@ -1,26 +1,36 @@
 import java.util.*;
 public class Main {
 
-    public static void main(String[] args)
-    {
-        Scanner scan=new Scanner(System.in);
-        System.out.println("enter a website");
-        String Website=scan.nextLine();
-        String ext=Website.substring(Website.lastIndexOf(".")+1);
-        switch (ext)
-        {
-            case "com":
-                System.out.println("commercial");
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Menu");
+        System.out.println("===");
+        System.out.println("Add");
+        System.out.println("Sub");
+        System.out.println("Mul");
+        System.out.println("Div");
+
+        System.out.println("Enter two numbers");
+       int x = scan.nextInt();
+       int y = scan.nextInt();
+        scan.nextLine();
+        System.out.println("Enter options in words same as written above");
+        String options = scan.nextLine();
+        switch (options)
+        {  case "Add":
+                System.out.println("the sum is "+(x+y));
                 break;
-            case "org":
-                System.out.println("organisation");
+            case "Sub":
+                System.out.println("the diffrence is "+(x-y));
                 break;
-            case "gov":
-                System.out.println("government");
+            case "Mul":
+                System.out.println("the multiplication is "+(x*y));
                 break;
-            case "net":
-                System.out.println("network");
+            case "Div":
+                System.out.println("the division is "+(x/y));
                 break;
+            default:
+                System.out.println("invalid option");
         }
 
     }

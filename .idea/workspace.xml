@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="to know the number by entering digits">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="to know the website and knowing types">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00059" summary="string practice; matches">
-      <option name="closed" value="true" />
-      <created>1707764972864</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1707764972864</updated>
     </task>
     <task id="LOCAL-00060" summary="string practice; matches">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708539731159</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="to know the website and knowing types">
+      <option name="closed" value="true" />
+      <created>1708541447147</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1708541447147</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="student challange 2" />
     <MESSAGE value="student challange 2 (ii)" />
     <MESSAGE value="student challange 2 (iii)" />
     <MESSAGE value="student challange 3 (i)" />
@@ -525,6 +524,7 @@
     <MESSAGE value="practicing switch case" />
     <MESSAGE value="to know the month name by number" />
     <MESSAGE value="to know the number by entering digits" />
-    <option name="LAST_COMMIT_MESSAGE" value="to know the number by entering digits" />
+    <MESSAGE value="to know the website and knowing types" />
+    <option name="LAST_COMMIT_MESSAGE" value="to know the website and knowing types" />
   </component>
 </project>
