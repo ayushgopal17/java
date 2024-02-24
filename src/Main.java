@@ -3,11 +3,10 @@ import java.util.*;
 public class Main {
     public static void main(String[] args)
     {
-        byte i=1;
-   while (true)
-         {
+
+        for(int i=1;i<=10;i++)
+        {
             System.out.println(i);
-            i++;
         }
     }
 }
