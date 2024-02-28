@@ -4,6 +4,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a number");
         int n = scanner.nextInt();
+		int m=n;
       int  rev=0;
 while (n>0)
 {
@@ -12,5 +13,10 @@ while (n>0)
    n=n/10;
 }
 		System.out.println(rev);
+if (rev==m)
+	System.out.println("the number is palidrome");
+else
+	System.out.println("its not a palidrome");
+
     }
 }
