@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="program for printing fibonnaci series">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="nested loop practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00083" summary="conditionals">
-      <option name="closed" value="true" />
-      <created>1708193836494</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1708193836495</updated>
     </task>
     <task id="LOCAL-00084" summary="conditionals &amp;&amp;">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709369794076</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="nested loop practice">
+      <option name="closed" value="true" />
+      <created>1709371728480</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1709371728480</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="to know the month name by number" />
     <MESSAGE value="to know the number by entering digits" />
     <MESSAGE value="to know the website and knowing types" />
     <MESSAGE value="Basic calculator with integer only" />
@@ -525,6 +524,7 @@
     <MESSAGE value="program for printing AP series" />
     <MESSAGE value="program for printing GP series" />
     <MESSAGE value="program for printing fibonnaci series" />
-    <option name="LAST_COMMIT_MESSAGE" value="program for printing fibonnaci series" />
+    <MESSAGE value="nested loop practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="nested loop practice" />
   </component>
 </project>
