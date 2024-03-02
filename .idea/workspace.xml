@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="count pattern">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="star pattern">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,14 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00091" summary="to check where you are young or not young">
-      <option name="closed" value="true" />
-      <created>1708199463449</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1708199463449</updated>
     </task>
     <task id="LOCAL-00092" summary="find grades of marks of a class">
       <option name="closed" value="true" />
@@ -474,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709375108365</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="star pattern">
+      <option name="closed" value="true" />
+      <created>1709375445738</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1709375445738</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="for loop" />
     <MESSAGE value="for loop reversed" />
     <MESSAGE value="for loop reversed ii" />
     <MESSAGE value="table of 5" />
@@ -524,6 +523,7 @@
     <MESSAGE value="number pattern from 1 to 25 ii" />
     <MESSAGE value="1 2 3 pattern" />
     <MESSAGE value="count pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="count pattern" />
+    <MESSAGE value="star pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="star pattern" />
   </component>
 </project>
