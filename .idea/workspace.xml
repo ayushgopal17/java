@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="number pattern from 1 to 25">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="number pattern from 1 to 25 ii">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,14 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00088" summary="if else">
-      <option name="closed" value="true" />
-      <created>1708194782410</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1708194782410</updated>
     </task>
     <task id="LOCAL-00089" summary="if else">
       <option name="closed" value="true" />
@@ -474,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709374241756</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="number pattern from 1 to 25 ii">
+      <option name="closed" value="true" />
+      <created>1709374423924</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1709374423924</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="practicing do while loop" />
     <MESSAGE value="infinite loop" />
     <MESSAGE value="infinite loop of byte" />
     <MESSAGE value="for loop" />
@@ -524,6 +523,7 @@
     <MESSAGE value="patterns 1 ii" />
     <MESSAGE value="patterns 1 iii" />
     <MESSAGE value="number pattern from 1 to 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="number pattern from 1 to 25" />
+    <MESSAGE value="number pattern from 1 to 25 ii" />
+    <option name="LAST_COMMIT_MESSAGE" value="number pattern from 1 to 25 ii" />
   </component>
 </project>
