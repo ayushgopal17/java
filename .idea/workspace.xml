@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="star pattern">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="decresing star pattern ii">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,30 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00092" summary="find grades of marks of a class">
-      <option name="closed" value="true" />
-      <created>1708200941808</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1708200941809</updated>
-    </task>
-    <task id="LOCAL-00093" summary="find grades of marks of a class ii">
-      <option name="closed" value="true" />
-      <created>1708201077061</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1708201077061</updated>
-    </task>
-    <task id="LOCAL-00094" summary="find grades of marks of a class ii">
-      <option name="closed" value="true" />
-      <created>1708338001230</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1708338001230</updated>
     </task>
     <task id="LOCAL-00095" summary="a number is decimal octadecimal binary or hexadecimal">
       <option name="closed" value="true" />
@@ -474,7 +451,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709375445738</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="decresing pattern">
+      <option name="closed" value="true" />
+      <created>1709375878182</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1709375878182</updated>
+    </task>
+    <task id="LOCAL-00142" summary="decresing pattern ii">
+      <option name="closed" value="true" />
+      <created>1709375951968</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1709375951968</updated>
+    </task>
+    <task id="LOCAL-00143" summary="decresing star pattern ii">
+      <option name="closed" value="true" />
+      <created>1709376034736</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1709376034736</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,9 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="for loop reversed" />
-    <MESSAGE value="for loop reversed ii" />
-    <MESSAGE value="table of 5" />
     <MESSAGE value="table of any value input" />
     <MESSAGE value="sum of first n number is" />
     <MESSAGE value="Factorial of a number" />
@@ -524,6 +522,9 @@
     <MESSAGE value="1 2 3 pattern" />
     <MESSAGE value="count pattern" />
     <MESSAGE value="star pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="star pattern" />
+    <MESSAGE value="decresing pattern" />
+    <MESSAGE value="decresing pattern ii" />
+    <MESSAGE value="decresing star pattern ii" />
+    <option name="LAST_COMMIT_MESSAGE" value="decresing star pattern ii" />
   </component>
 </project>
