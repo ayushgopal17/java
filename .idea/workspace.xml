@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="nested loop practice">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="patterns 1 iii">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,30 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00084" summary="conditionals &amp;&amp;">
-      <option name="closed" value="true" />
-      <created>1708193876265</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1708193876265</updated>
-    </task>
-    <task id="LOCAL-00085" summary="conditionals &amp;&amp; both shouble be true">
-      <option name="closed" value="true" />
-      <created>1708193944611</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1708193944611</updated>
-    </task>
-    <task id="LOCAL-00086" summary="conditionals || this is or it means one should be true">
-      <option name="closed" value="true" />
-      <created>1708194006524</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1708194006524</updated>
     </task>
     <task id="LOCAL-00087" summary="conditionals for float">
       <option name="closed" value="true" />
@@ -475,7 +450,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709371728480</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="patter 1">
+      <option name="closed" value="true" />
+      <created>1709373782830</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1709373782830</updated>
+    </task>
+    <task id="LOCAL-00134" summary="patterns 1 ii">
+      <option name="closed" value="true" />
+      <created>1709373842913</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1709373842913</updated>
+    </task>
+    <task id="LOCAL-00135" summary="patterns 1 iii">
+      <option name="closed" value="true" />
+      <created>1709374011980</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1709374011980</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,9 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="to know the number by entering digits" />
-    <MESSAGE value="to know the website and knowing types" />
-    <MESSAGE value="Basic calculator with integer only" />
     <MESSAGE value="practicing while loop" />
     <MESSAGE value="practicing do while loop" />
     <MESSAGE value="infinite loop" />
@@ -525,6 +521,9 @@
     <MESSAGE value="program for printing GP series" />
     <MESSAGE value="program for printing fibonnaci series" />
     <MESSAGE value="nested loop practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="nested loop practice" />
+    <MESSAGE value="patter 1" />
+    <MESSAGE value="patterns 1 ii" />
+    <MESSAGE value="patterns 1 iii" />
+    <option name="LAST_COMMIT_MESSAGE" value="patterns 1 iii" />
   </component>
 </project>
