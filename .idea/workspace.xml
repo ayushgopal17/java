@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="decresing star pattern withzeroes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="star pattern decresing">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,30 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00096" summary="to check whether a year is leap year or not">
-      <option name="closed" value="true" />
-      <created>1708376191680</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1708376191680</updated>
-    </task>
-    <task id="LOCAL-00097" summary="to check whether a year is leap year or not">
-      <option name="closed" value="true" />
-      <created>1708376436516</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1708376436516</updated>
-    </task>
-    <task id="LOCAL-00098" summary="to check whether a year is leap year or not">
-      <option name="closed" value="true" />
-      <created>1708377210023</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1708377210023</updated>
     </task>
     <task id="LOCAL-00099" summary="to check whether a year is leap year or not.">
       <option name="closed" value="true" />
@@ -475,7 +450,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709386624981</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="star pattern decresing">
+      <option name="closed" value="true" />
+      <created>1709388684599</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1709388684599</updated>
+    </task>
+    <task id="LOCAL-00146" summary="star pattern decresing">
+      <option name="closed" value="true" />
+      <created>1709388694587</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1709388694587</updated>
+    </task>
+    <task id="LOCAL-00147" summary="star pattern decresing">
+      <option name="closed" value="true" />
+      <created>1709388716194</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1709388716194</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sum of first n number is" />
     <MESSAGE value="Factorial of a number" />
     <MESSAGE value="Factorial of a number ii" />
     <MESSAGE value="loop and showing all the digits individually" />
@@ -525,6 +523,7 @@
     <MESSAGE value="decresing pattern ii" />
     <MESSAGE value="decresing star pattern ii" />
     <MESSAGE value="decresing star pattern withzeroes" />
-    <option name="LAST_COMMIT_MESSAGE" value="decresing star pattern withzeroes" />
+    <MESSAGE value="star pattern decresing" />
+    <option name="LAST_COMMIT_MESSAGE" value="star pattern decresing" />
   </component>
 </project>
