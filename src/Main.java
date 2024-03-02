@@ -6,7 +6,7 @@ for (int i=1;i<=5;i++)
    {  for (int j = 1; j<=5;j++)
         {
             ++count;
-            System.out.print(count+" ");
+            System.out.format("%2d ",count);
         }
     System.out.println(" ");
         }
