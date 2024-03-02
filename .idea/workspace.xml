@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="displaying  anumber in words">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="program for printing AP series">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00080" summary="student challange 3 (ii) removing spaces">
-      <option name="closed" value="true" />
-      <created>1708105549236</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1708105549236</updated>
     </task>
     <task id="LOCAL-00081" summary="student challange 3 (ii) removing spaces and counting no. of words">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709315703789</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="program for printing AP series">
+      <option name="closed" value="true" />
+      <created>1709367685037</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1709367685037</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="entering day no. and knowing the day." />
     <MESSAGE value="entering url and knowing its type" />
     <MESSAGE value="practicing switch case" />
     <MESSAGE value="to know the month name by number" />
@@ -525,6 +524,7 @@
     <MESSAGE value="REVERSING A NUMBER" />
     <MESSAGE value="to check a number is palimdrome or not" />
     <MESSAGE value="displaying  anumber in words" />
-    <option name="LAST_COMMIT_MESSAGE" value="displaying  anumber in words" />
+    <MESSAGE value="program for printing AP series" />
+    <option name="LAST_COMMIT_MESSAGE" value="program for printing AP series" />
   </component>
 </project>
