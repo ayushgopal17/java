@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="program for printing GP series">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="program for printing fibonnaci series">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00082" summary="student challange 3 (ii) removing spaces and counting no. of words">
-      <option name="closed" value="true" />
-      <created>1708192506017</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1708192506017</updated>
     </task>
     <task id="LOCAL-00083" summary="conditionals">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709368449060</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="program for printing fibonnaci series">
+      <option name="closed" value="true" />
+      <created>1709369794076</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1709369794076</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="practicing switch case" />
     <MESSAGE value="to know the month name by number" />
     <MESSAGE value="to know the number by entering digits" />
     <MESSAGE value="to know the website and knowing types" />
@@ -525,6 +524,7 @@
     <MESSAGE value="displaying  anumber in words" />
     <MESSAGE value="program for printing AP series" />
     <MESSAGE value="program for printing GP series" />
-    <option name="LAST_COMMIT_MESSAGE" value="program for printing GP series" />
+    <MESSAGE value="program for printing fibonnaci series" />
+    <option name="LAST_COMMIT_MESSAGE" value="program for printing fibonnaci series" />
   </component>
 </project>
