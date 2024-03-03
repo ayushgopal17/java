@@ -11,9 +11,9 @@ public class Main
       int C[];
       C=new int[10];
       B[2]=15;
-        for(int i=0;i<B.length;i++)
+        for(int x:B)
         {
-            System.out.println(B[i]);
+            System.out.println(x);
         }
     }
          }
