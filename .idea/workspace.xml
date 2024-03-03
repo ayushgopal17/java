@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="star pattern decresing">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="star pattern decresing starting from left">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00099" summary="to check whether a year is leap year or not.">
-      <option name="closed" value="true" />
-      <created>1708377585465</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1708377585465</updated>
     </task>
     <task id="LOCAL-00100" summary="to check whether a year is leap year or not">
       <option name="closed" value="true" />
@@ -474,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709388716194</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="star pattern decresing starting from left">
+      <option name="closed" value="true" />
+      <created>1709388949680</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1709388949680</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Factorial of a number" />
     <MESSAGE value="Factorial of a number ii" />
     <MESSAGE value="loop and showing all the digits individually" />
     <MESSAGE value="counting the digits of a number" />
@@ -524,6 +524,7 @@
     <MESSAGE value="decresing star pattern ii" />
     <MESSAGE value="decresing star pattern withzeroes" />
     <MESSAGE value="star pattern decresing" />
-    <option name="LAST_COMMIT_MESSAGE" value="star pattern decresing" />
+    <MESSAGE value="star pattern decresing starting from left" />
+    <option name="LAST_COMMIT_MESSAGE" value="star pattern decresing starting from left" />
   </component>
 </project>

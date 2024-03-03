@@ -4,18 +4,18 @@ public class Main
 {
     public static void main(String[] args)
     {
+      int A[]=new int[10];
 
-        for (int i=1;i<=5;i++)
+      int B[]={1,2,3,4,5};
+
+      int C[];
+      C=new int[10];
+      B[2]=15;
+        for(int i=0;i<B.length;i++)
         {
-            for (int j=1;j<=5;j++)
-        {
-           if(i+j>5)
-               System.out.print("*");
-           else
-               System.out.print(" ");
+            System.out.println(B[i]);
         }
-            System.out.println("");
-        }
+    }
          }
-           }
+
 
