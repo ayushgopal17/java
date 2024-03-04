@@ -7,22 +7,20 @@ public class Main
         Scanner scanner=new Scanner(System.in);
         int A[] = {3,9,7,8,12,6,15,5,4,10};
 
-        System.out.println("Enter a key");
+      int max=A[0];
 
 
 
-       int  key=scanner.nextInt();
+
         for(int i=0;i<A.length;i++)
         {
-        if(A[i]==key)
+        if(A[i]>max)
         {
-            System.out.println("Element found at "+i);
-            System.exit(0);
+          max=A[i];
         }
 
-
      }
-        System.out.println("Element not found");
+        System.out.println("The maximum value is "+max);
     }
          }
 
