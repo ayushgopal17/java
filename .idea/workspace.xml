@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="to check the length array">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="sum of strings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00104" summary="practicing switch case">
-      <option name="closed" value="true" />
-      <created>1708457963130</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1708457963131</updated>
     </task>
     <task id="LOCAL-00105" summary="to know the month name by number">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709499015635</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="sum of strings">
+      <option name="closed" value="true" />
+      <created>1709580233912</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1709580233912</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="REVERSING A NUMBER" />
     <MESSAGE value="to check a number is palimdrome or not" />
     <MESSAGE value="displaying  anumber in words" />
     <MESSAGE value="program for printing AP series" />
@@ -525,6 +524,7 @@
     <MESSAGE value="Array practice same as old method ii" />
     <MESSAGE value="Array practice using counter controll" />
     <MESSAGE value="to check the length array" />
-    <option name="LAST_COMMIT_MESSAGE" value="to check the length array" />
+    <MESSAGE value="sum of strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="sum of strings" />
   </component>
 </project>
