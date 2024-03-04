@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="searching an element" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="to find the maximum value of a string" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,14 +79,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00106" summary="to know the number by entering digits">
-      <option name="closed" value="true" />
-      <created>1708462170340</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1708462170340</updated>
     </task>
     <task id="LOCAL-00107" summary="to know the number by entering digits">
       <option name="closed" value="true" />
@@ -472,7 +464,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709581351872</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="to find the maximum value of a string">
+      <option name="closed" value="true" />
+      <created>1709581667492</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1709581667492</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="displaying  anumber in words" />
     <MESSAGE value="program for printing AP series" />
     <MESSAGE value="program for printing GP series" />
     <MESSAGE value="program for printing fibonnaci series" />
@@ -522,6 +521,7 @@
     <MESSAGE value="to check the length array" />
     <MESSAGE value="sum of strings" />
     <MESSAGE value="searching an element" />
-    <option name="LAST_COMMIT_MESSAGE" value="searching an element" />
+    <MESSAGE value="to find the maximum value of a string" />
+    <option name="LAST_COMMIT_MESSAGE" value="to find the maximum value of a string" />
   </component>
 </project>
