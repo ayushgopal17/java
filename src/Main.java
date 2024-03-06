@@ -1,29 +1,34 @@
 
 import java.util.*;
-public class Main
-{
-    public static void main(String[] args)
-    {
-        Scanner scanner=new Scanner(System.in);
-        int A[] = {5,9,6,10,12,7,3,5,4,2};
+public class Main {
+    public static void main(String[] args) {
+        int A[] = new int[10];
 
-        for(int x:A)
-            System.out.print(x+",");
+        A[0] = 5;
+        A[1] = 9;
+        A[2] = 6;
+        A[3] = 10;
+        A[4] = 12;
+        A[5] = 6;
+
+        int n = 6;
+
+        for (int i = 0; i < n; i++)
+            System.out.print(A[i] + ",");
         System.out.println("");
-     int temp=A[0];
 
-     for (int i=1;i<A.length;i++)
-     {
-     A[i-1]=A[i];
-     }
+        int x = 20;
+        int index = 2;
 
-     A[A.length-1]=temp;
+        for (int i = 0; i > index; i--)
+            A[i] = A[i - 1];
+        A[index] = x;
 
-        for(int x:A)
-            System.out.print(x+",");
+        for (int i = 0; i < n; i++)
+            System.out.print(A[i] + ",");
         System.out.println("");
-        }
 
     }
+}
 
 
