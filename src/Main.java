@@ -5,27 +5,25 @@ public class Main
     public static void main(String[] args)
     {
         Scanner scanner=new Scanner(System.in);
-        int A[] = {3,9,7,8,12,6,15,5,4,10};
+        int A[] = {5,9,6,10,12,7,3,5,4,2};
 
-      int max1=A[0];
-      int max2=A[0];
+        for(int x:A)
+            System.out.print(x+",");
+        System.out.println("");
+     int temp=A[0];
 
+     for (int i=1;i<A.length;i++)
+     {
+     A[i-1]=A[i];
+     }
 
-        for(int i=0;i<A.length;i++)
-        {
-        if(A[i]>max1)
-        {
-          max2=max1;
-            max1=A[i];
-        } else if (A[i] >max2) {
+     A[A.length-1]=temp;
 
-            max2 =A[i];
-            
+        for(int x:A)
+            System.out.print(x+",");
+        System.out.println("");
         }
 
-        }
-        System.out.println("the second largest number is "+max2);
     }
-         }
 
 
