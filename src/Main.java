@@ -17,7 +17,7 @@ public class Main {
             System.out.print(A[i] + ",");
         System.out.println("");
 
-        int x = 20;
+        int x = 15;
         int index = 2;
 
         for (int i = 0; i > index; i--)
