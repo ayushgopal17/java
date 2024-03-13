@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="inserting an Array ii">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="copy An Array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00112" summary="practicing do while loop">
-      <option name="closed" value="true" />
-      <created>1708707573091</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1708707573091</updated>
     </task>
     <task id="LOCAL-00113" summary="infinite loop">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709919454546</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="copy An Array">
+      <option name="closed" value="true" />
+      <created>1710337730612</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1710337730612</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="patter 1" />
     <MESSAGE value="patterns 1 ii" />
     <MESSAGE value="patterns 1 iii" />
     <MESSAGE value="number pattern from 1 to 25" />
@@ -525,6 +524,7 @@
     <MESSAGE value="Rotation of Array" />
     <MESSAGE value="inserting an Array" />
     <MESSAGE value="inserting an Array ii" />
-    <option name="LAST_COMMIT_MESSAGE" value="inserting an Array ii" />
+    <MESSAGE value="copy An Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="copy An Array" />
   </component>
 </project>
