@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="copy An Array">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="copying an Array to B">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,14 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00113" summary="infinite loop">
-      <option name="closed" value="true" />
-      <created>1708707849117</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1708707849117</updated>
     </task>
     <task id="LOCAL-00114" summary="infinite loop of byte">
       <option name="closed" value="true" />
@@ -475,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710337730612</updated>
     </task>
-    <option name="localTasksCounter" value="162" />
+    <task id="LOCAL-00162" summary="copying an Array to B">
+      <option name="closed" value="true" />
+      <created>1710339594985</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1710339594985</updated>
+    </task>
+    <option name="localTasksCounter" value="163" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="patterns 1 ii" />
     <MESSAGE value="patterns 1 iii" />
     <MESSAGE value="number pattern from 1 to 25" />
     <MESSAGE value="number pattern from 1 to 25 ii" />
@@ -525,6 +523,7 @@
     <MESSAGE value="inserting an Array" />
     <MESSAGE value="inserting an Array ii" />
     <MESSAGE value="copy An Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="copy An Array" />
+    <MESSAGE value="copying an Array to B" />
+    <option name="LAST_COMMIT_MESSAGE" value="copying an Array to B" />
   </component>
 </project>

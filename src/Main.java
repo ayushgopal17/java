@@ -2,15 +2,15 @@
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
-        int A[]={8,6,10,9,2,15,7,13,14,11};
-        int B[]=new int[10];
 
-        for (int i=0;i<A.length;i++)
+        int A[][]=new int[5][5];
+        int B[][]={{1,2,3},{2,4,6},{1,3,5}};
+        for(int i=0;i<B.length;i++)
         {
-            B[i] = A[i];
+            for(int j=0;j<B[0].length;j++)
+                System.out.print(B[i][j]);
         }
-        for (int x:B)
-        System.out.print(x+",");
+
 
         }
     }
