@@ -2,33 +2,21 @@
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
-        int A[] = new int[10];
 
-        A[0] = 5;
-        A[1] = 9;
-        A[2] = 6;
-        A[3] = 10;
-        A[4] = 12;
-        A[5] = 6;
+        int A[]={0,1,2,3,4,5,6,7,8,9};
+        System.out.println("Lenth of A "+A.length);
+        int B[]=new int[10];
 
-        int n = 6;
+        for (int i=0;i<A.length;i++)
+        {
 
-        for (int i = 0; i < n; i++)
-            System.out.print(A[i] + ",");
-        System.out.println("");
+            B[i]=A[i];
+        }
+        A=B;
+        System.out.println("Length of A "+A.length);
+        }
 
-        int x = 15;
-        int index = 2;
-
-        for (int i = 0; i > index; i--)
-            A[i] = A[i - 1];
-        A[index] = x;
-
-        for (int i = 0; i < n; i++)
-            System.out.print(A[i] + ",");
-        System.out.println("");
-
-    }
 }
+
 
 
