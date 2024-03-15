@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="2D arrays with spacing and arrangement" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="2D array using for each loop">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00116" summary="for loop reversed">
-      <option name="closed" value="true" />
-      <created>1708798591039</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1708798591039</updated>
     </task>
     <task id="LOCAL-00117" summary="for loop reversed ii">
       <option name="closed" value="true" />
@@ -472,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710361031919</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="2D array using for each loop">
+      <option name="closed" value="true" />
+      <created>1710525859259</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1710525859259</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="number pattern from 1 to 25 ii" />
     <MESSAGE value="1 2 3 pattern" />
     <MESSAGE value="count pattern" />
     <MESSAGE value="star pattern" />
@@ -522,6 +524,7 @@
     <MESSAGE value="copying an Array to B" />
     <MESSAGE value="2D arrays" />
     <MESSAGE value="2D arrays with spacing and arrangement" />
-    <option name="LAST_COMMIT_MESSAGE" value="2D arrays with spacing and arrangement" />
+    <MESSAGE value="2D array using for each loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="2D array using for each loop" />
   </component>
 </project>
