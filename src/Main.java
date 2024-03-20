@@ -1,25 +1,28 @@
-
 import java.util.*;
+
 public class Main {
     public static void main(String[] args) {
-//
-        int A[] [];
-        A=new int[3][];
+        int A[][] = {{3, 5, 9}, {7, 6, 2}, {4, 3, 5}};
+        int B[][] = {{1, 5, 2}, {6, 8, 4}, {3, 9, 7}};
 
-        A[0]=new int[5];
-         A[1]=new int[3];
-         A[2]=new int[8];
-         for (int x[]:A)
-         {
-             for (int y:x)
-             {
-                 System.out.print(y+" ");
+        int C[][] = new int[3][3];
+        for (int i = 0; i < A.length; i++) {
+            for (int j = 0; j < A[0].length; j++)
+
+            {  C[i][j]=A[i][j]+B[i][j];
             }
-            System.out.println("");
         }
-    }
+for(int x[]:C)
+{
+for(int y:x)
+
+    System.out.print(y+" ");
+}
+    System.out.println("");
 }
 
+    }
+}
 
 
 

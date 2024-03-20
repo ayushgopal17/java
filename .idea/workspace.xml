@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="printing zeroes via for each loops">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="printing zeroes via for each loops.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,22 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00119" summary="table of any value input">
-      <option name="closed" value="true" />
-      <created>1708800294517</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1708800294517</updated>
-    </task>
-    <task id="LOCAL-00120" summary="sum of first n number is">
-      <option name="closed" value="true" />
-      <created>1708801417535</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1708801417535</updated>
     </task>
     <task id="LOCAL-00121" summary="Factorial of a number">
       <option name="closed" value="true" />
@@ -475,7 +459,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710526706848</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="printing zeroes via for each loops">
+      <option name="closed" value="true" />
+      <created>1710942456916</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1710942456916</updated>
+    </task>
+    <task id="LOCAL-00169" summary="printing zeroes via for each loops.">
+      <option name="closed" value="true" />
+      <created>1710942582658</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1710942582658</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="star pattern" />
     <MESSAGE value="decresing pattern" />
     <MESSAGE value="decresing pattern ii" />
     <MESSAGE value="decresing star pattern ii" />
@@ -525,6 +524,7 @@
     <MESSAGE value="2D array using for each loop" />
     <MESSAGE value="prinyting zeroes" />
     <MESSAGE value="printing zeroes via for each loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="printing zeroes via for each loops" />
+    <MESSAGE value="printing zeroes via for each loops." />
+    <option name="LAST_COMMIT_MESSAGE" value="printing zeroes via for each loops." />
   </component>
 </project>
