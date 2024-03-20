@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="sum of two matrices">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="multiplication of two matrices">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,14 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00122" summary="Factorial of a number ii">
-      <option name="closed" value="true" />
-      <created>1709041161115</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1709041161115</updated>
     </task>
     <task id="LOCAL-00123" summary="loop and showing all the digits individually">
       <option name="closed" value="true" />
@@ -475,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710944378261</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="multiplication of two matrices">
+      <option name="closed" value="true" />
+      <created>1710945991526</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1710945991526</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="decresing pattern ii" />
     <MESSAGE value="decresing star pattern ii" />
     <MESSAGE value="decresing star pattern withzeroes" />
     <MESSAGE value="star pattern decresing" />
@@ -525,6 +523,7 @@
     <MESSAGE value="printing zeroes via for each loops" />
     <MESSAGE value="printing zeroes via for each loops." />
     <MESSAGE value="sum of two matrices" />
-    <option name="LAST_COMMIT_MESSAGE" value="sum of two matrices" />
+    <MESSAGE value="multiplication of two matrices" />
+    <option name="LAST_COMMIT_MESSAGE" value="multiplication of two matrices" />
   </component>
 </project>
