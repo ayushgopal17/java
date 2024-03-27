@@ -1,12 +1,21 @@
 
 public class Main {
+
+        static int max(int x, int y)
+        {
+            if(x>y)
+                return x;
+            else
+                return y;
+        }
+
     public static void main(String[] args)
-    {String arr[]={"java","python","pascal","smalltalk","ada","basic"};
-        java.util.Arrays.sort(arr);
-        for(String x:arr)
-            System.out.println(x);
+    {
+        int  a=10, b=15;
+        System.out.println(max(a,b));
     }
-}
+    }
+
 
 
 
