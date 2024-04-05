@@ -1,20 +1,21 @@
 
 public class Main {
 
-        static int max(int x, int y)
-        {
-            if(x>y)
-                return x;
-            else
-                return y;
-        }
-//again
-    public static void main(String[] args)
+    static void change(int A[], int index,int value)
     {
-        int  a=10, b=15;
-        System.out.println(max(a,b));
+        A[index]=value;
     }
+
+    public static void main(String[] args) {
+        int A[]={2,4,6,8,10};
+        change(A,2,20);
+        for (int x:A) {
+            System.out.println(x);
+            
+        }
     }
+
+}
 
 
 

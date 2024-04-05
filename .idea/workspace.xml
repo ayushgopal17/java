@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="method practice" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="method practice.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,22 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00127" summary="to check a number is palimdrome or not">
-      <option name="closed" value="true" />
-      <created>1709132163961</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1709132163961</updated>
-    </task>
-    <task id="LOCAL-00128" summary="displaying  anumber in words">
-      <option name="closed" value="true" />
-      <created>1709315703789</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1709315703789</updated>
     </task>
     <task id="LOCAL-00129" summary="program for printing AP series">
       <option name="closed" value="true" />
@@ -472,7 +459,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711532044378</updated>
     </task>
-    <option name="localTasksCounter" value="176" />
+    <task id="LOCAL-00176" summary="method practice.">
+      <option name="closed" value="true" />
+      <created>1711644243579</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1711644243579</updated>
+    </task>
+    <task id="LOCAL-00177" summary="method practice.">
+      <option name="closed" value="true" />
+      <created>1711644300070</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1711644300070</updated>
+    </task>
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="star pattern decresing" />
     <MESSAGE value="star pattern decresing starting from left" />
     <MESSAGE value="Array practice" />
     <MESSAGE value="Array practice same as old method ii" />
@@ -522,6 +524,7 @@
     <MESSAGE value="multiplication of two matrices" />
     <MESSAGE value="sorting of an array" />
     <MESSAGE value="method practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="method practice" />
+    <MESSAGE value="method practice." />
+    <option name="LAST_COMMIT_MESSAGE" value="method practice." />
   </component>
 </project>
