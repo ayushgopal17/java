@@ -1,23 +1,22 @@
 
 public class Main {
-
-    static void change(int A[], int index,int value)
+    static boolean isPrime(int n)
     {
-        A[index]=value;
+        for(int i=2;i<n/2;i++)
+        {
+            if(n%i==0)
+                return false;
+        }
+      return true;
+
+
     }
 
     public static void main(String[] args) {
-        int A[]={2,4,6,8,10};
-        change(A,2,20);
-        for (int x:A) {
-            System.out.println(x);
-            
-        }
+        System.out.println(isPrime(97));
     }
 
 }
-
-
 
 
 

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="method practice.">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="change in an array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00129" summary="program for printing AP series">
-      <option name="closed" value="true" />
-      <created>1709367685037</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1709367685037</updated>
     </task>
     <task id="LOCAL-00130" summary="program for printing GP series">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711644300070</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="change in an array">
+      <option name="closed" value="true" />
+      <created>1712302256365</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1712302256366</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="star pattern decresing starting from left" />
     <MESSAGE value="Array practice" />
     <MESSAGE value="Array practice same as old method ii" />
     <MESSAGE value="Array practice using counter controll" />
@@ -525,6 +524,18 @@
     <MESSAGE value="sorting of an array" />
     <MESSAGE value="method practice" />
     <MESSAGE value="method practice." />
-    <option name="LAST_COMMIT_MESSAGE" value="method practice." />
+    <MESSAGE value="change in an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="change in an array" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
