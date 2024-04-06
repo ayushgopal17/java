@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="variable arguments" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="variable arguments with showlist">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,14 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00136" summary="number pattern from 1 to 25">
-      <option name="closed" value="true" />
-      <created>1709374241756</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1709374241756</updated>
     </task>
     <task id="LOCAL-00137" summary="number pattern from 1 to 25 ii">
       <option name="closed" value="true" />
@@ -472,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712405830671</updated>
     </task>
-    <option name="localTasksCounter" value="185" />
+    <task id="LOCAL-00185" summary="variable arguments with showlist">
+      <option name="closed" value="true" />
+      <created>1712406359792</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1712406359792</updated>
+    </task>
+    <option name="localTasksCounter" value="186" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="to find the maximum value of a string" />
     <MESSAGE value="to find the second maximum value of a string" />
     <MESSAGE value="Rotation of Array" />
     <MESSAGE value="inserting an Array" />
@@ -522,6 +523,7 @@
     <MESSAGE value="max of two values using float" />
     <MESSAGE value="max of three values using float and polymorphism is used" />
     <MESSAGE value="variable arguments" />
-    <option name="LAST_COMMIT_MESSAGE" value="variable arguments" />
+    <MESSAGE value="variable arguments with showlist" />
+    <option name="LAST_COMMIT_MESSAGE" value="variable arguments with showlist" />
   </component>
 </project>
