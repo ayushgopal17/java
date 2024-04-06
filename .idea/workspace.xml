@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="max of two values" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="max of two values using float">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,14 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00133" summary="patter 1">
-      <option name="closed" value="true" />
-      <created>1709373782830</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1709373782830</updated>
     </task>
     <task id="LOCAL-00134" summary="patterns 1 ii">
       <option name="closed" value="true" />
@@ -472,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712383467620</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="max of two values using float">
+      <option name="closed" value="true" />
+      <created>1712384700508</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1712384700508</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="to check the length array" />
     <MESSAGE value="sum of strings" />
     <MESSAGE value="searching an element" />
     <MESSAGE value="to find the maximum value of a string" />
@@ -522,6 +523,7 @@
     <MESSAGE value="checking whether a number is prime or not" />
     <MESSAGE value="to find the gcd or hcf of two numbers" />
     <MESSAGE value="max of two values" />
-    <option name="LAST_COMMIT_MESSAGE" value="max of two values" />
+    <MESSAGE value="max of two values using float" />
+    <option name="LAST_COMMIT_MESSAGE" value="max of two values using float" />
   </component>
 </project>
