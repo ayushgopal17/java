@@ -1,32 +1,35 @@
-// package java1;
-class Main {
-    public double radius;
+
+class Rectangle2
+{
+    public double length;
+    public double breadth;
 
     public double area()
     {
-        return Math.PI * radius * radius;
+        return length*breadth;
     }
-
-    public double perimeter()
+public double perimeter()
+{
+    return 2*(length+breadth);
+}
+    public boolean isSquare()
     {
-        return 2*Math.PI*radius;
-    }
-
-    public double circumference()
-    {
-        return perimeter();
+       if (length==breadth)
+          return true;
+          else
+              return false;
     }
 }
-
-public class Main1 {
+public class Main {
 
     public static void main(String[] args) {
-        Main c1 = new Main();
-        c1.radius = 7;
+        Rectangle2 r=new Rectangle2();
+        r.length=10.5;
+        r.breadth=5.5;
+        System.out.println("Area "+r.area());
+        System.out.println("Perimeter "+r.perimeter());
+        System.out.println("Is it a square "+r.isSquare());
 
-        System.out.println(c1.area());
-        System.out.println(c1.perimeter());
-        System.out.println(c1.circumference());
     }
 }
 
