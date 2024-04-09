@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="finding the maximum values using varags">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="recursion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00139" summary="count pattern">
-      <option name="closed" value="true" />
-      <created>1709375108365</created>
-      <option name="number" value="00139" />
-      <option name="presentableId" value="LOCAL-00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1709375108365</updated>
     </task>
     <task id="LOCAL-00140" summary="star pattern">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712430469696</updated>
     </task>
-    <option name="localTasksCounter" value="188" />
+    <task id="LOCAL-00188" summary="recursion">
+      <option name="closed" value="true" />
+      <created>1712568356509</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1712568356509</updated>
+    </task>
+    <option name="localTasksCounter" value="189" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="inserting an Array" />
     <MESSAGE value="inserting an Array ii" />
     <MESSAGE value="copy An Array" />
     <MESSAGE value="copying an Array to B" />
@@ -525,6 +524,7 @@
     <MESSAGE value="variable arguments with showlist" />
     <MESSAGE value="variable arguments with showlist starting with 5" />
     <MESSAGE value="finding the maximum values using varags" />
-    <option name="LAST_COMMIT_MESSAGE" value="finding the maximum values using varags" />
+    <MESSAGE value="recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="recursion" />
   </component>
 </project>
