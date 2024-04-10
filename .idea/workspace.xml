@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="To find Area of square with oops">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="To find Areas and volme of cylinder with opps">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00142" summary="decresing pattern ii">
-      <option name="closed" value="true" />
-      <created>1709375951968</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1709375951968</updated>
     </task>
     <task id="LOCAL-00143" summary="decresing star pattern ii">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712652783682</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="To find Areas and volme of cylinder with opps">
+      <option name="closed" value="true" />
+      <created>1712777061104</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1712777061104</updated>
+    </task>
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="copying an Array to B" />
     <MESSAGE value="2D arrays" />
     <MESSAGE value="2D arrays with spacing and arrangement" />
     <MESSAGE value="2D array using for each loop" />
@@ -525,6 +524,7 @@
     <MESSAGE value="recursion" />
     <MESSAGE value="object oriented programming" />
     <MESSAGE value="To find Area of square with oops" />
-    <option name="LAST_COMMIT_MESSAGE" value="To find Area of square with oops" />
+    <MESSAGE value="To find Areas and volme of cylinder with opps" />
+    <option name="LAST_COMMIT_MESSAGE" value="To find Areas and volme of cylinder with opps" />
   </component>
 </project>
