@@ -1,51 +1,60 @@
-class students {
+class Rectangle
+{
+    private double length;
+    private double breadth;
 
-    public int roll;
-    public String name;
-    public String Course;
-    public int m1, m2, m3;
-
-    public int total() {
-        return m1 + m2 + m3;
+    public double getLength()
+    {
+        return length;
+    }
+      public double getBreadth()
+    {
+        return breadth;
     }
 
-    public float Average() {
-        return (float) total() / 3;
+    public void setLength(double l)
+    {
+        length=l;
+    }
+    public void setBreadth(double b)
+    {
+        breadth=b;
+    }
+    public double area()
+    {
+        return length*breadth;
     }
 
-    public char grade() {
-        if (Average() >= 60)
-            return 'A';
+    public double perimeter()
+    {
+        return 2*(length+breadth);
+    }
+
+    public boolean isSquare()
+    {
+        if(length==breadth)
+            return true;
         else
-            return 'B';
-
+            return false;
     }
 
-
-    public String details() {
-        return "Roll no:" + roll + "\n" + "Name:" + name + "\n" + "Course:" +Course + "\n";
-    }
 }
 
 public class Main {
 
     public static void main(String[] args) {
+        Rectangle r=new Rectangle();
 
-        students s=new students();
-        s.roll=1;
-        s.name="Ayush" ;
-        s.Course="CS";
-        s.m1=70;
-        s.m2=80;
-        s.m3=65;
+        r.setLength(10.5);
+        r.setBreadth(5.5);
 
-        System.out.println("Total:"+s.total());
-        System.out.println("Average:"+s.Average());
-        System.out.println("Details:\n "+s.details());
+        System.out.println("Area "+r.area());
+        System.out.println("perimeter "+r.perimeter());
+
+        System.out.println("Is it a Square "+r.isSquare());
     }
+
 }
-
-
 
 
 
