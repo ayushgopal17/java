@@ -52,6 +52,8 @@ public class Main {
         System.out.println("perimeter "+r.perimeter());
 
         System.out.println("Is it a Square "+r.isSquare());
+        System.out.println(" length "+r.getLength());
+        System.out.println(" breadth "+r.getBreadth());
     }
 
 }
