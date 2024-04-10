@@ -1,37 +1,47 @@
-
-class Rectangle2
+class cylinder
 {
-    public double length;
-    public double breadth;
 
-    public double area()
+    public double radius;
+    public double height;
+
+
+    public double lidarea()
     {
-        return length*breadth;
+        return  Math.PI * radius * radius;
     }
-public double perimeter()
-{
-    return 2*(length+breadth);
-}
-    public boolean isSquare()
-    {
-       if (length==breadth)
-          return true;
-          else
-              return false;
+
+    public double totalsurfacearea()
+    { return 2*Math.PI*radius*(radius+height);
+    }
+    public double volume(){
+        return Math.PI*radius*radius*height;
     }
 }
-public class Main {
 
+public class Main
+{
     public static void main(String[] args) {
-        Rectangle2 r=new Rectangle2();
-        r.length=10.5;
-        r.breadth=5.5;
-        System.out.println("Area "+r.area());
-        System.out.println("Perimeter "+r.perimeter());
-        System.out.println("Is it a square "+r.isSquare());
+     cylinder c=new cylinder();
+     c.radius=7;
+     c.height=10;
+        System.out.println("lidarea is "+c.lidarea());
+        System.out.println("toTAL Surface area is "+c.totalsurfacearea());
+        System.out.println("volume is "+c.volume());
+
+
 
     }
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
