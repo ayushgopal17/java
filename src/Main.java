@@ -1,62 +1,63 @@
-class Rectangle
-{
-    private double length;
-    private double breadth;
 
-    public double getLength()
-    {
-        return length;
-    }
-      public double getBreadth()
-    {
-        return breadth;
-    }
 
-    public void setLength(double l)
-    {
-        length=l;
-    }
-    public void setBreadth(double b)
-    {
-        breadth=b;
-    }
-    public double area()
-    {
-        return length*breadth;
+class Subject {
+    private String subID;
+    private String name;
+    private int maxMarks;
+    public int marksObtain;
+
+    public Subject(String subID, String name, int maxMarks) {
+        this.subID = subID;
+        this.name = name;
+        this.maxMarks = maxMarks;
     }
 
-    public double perimeter()
-    {
-        return 2*(length+breadth);
+    public String getSubID() {
+        return subID;
     }
 
-    public boolean isSquare()
-    {
-        if(length==breadth)
-            return true;
-        else
-            return false;
+    public String getName() {
+        return getName();
     }
 
+    public int getMaxMarks() {
+        return getMaxMarks();
+    }
+
+    public int getMarksObtain() {
+        return getMarksObtain();
+    }
+
+    public void setMaxMarks(int mm) {
+        maxMarks = mm;
+    }
+
+    public void setMarksObtain(int m) {
+        marksObtain = m;
+    }
+
+    boolean isQualified(int m) {
+        return m >= maxMarks;
+    }
+
+    public String toString() {
+        return "\nSubject ID:" + subID + "\nNAME" + name + "\nMARKS" + marksObtain;
+    }
 }
+   public class Main {
 
-public class Main {
-
-    public static void main(String[] args) {
-        Rectangle r=new Rectangle();
-
-        r.setLength(10.5);
-        r.setBreadth(5.5);
-
-        System.out.println("Area "+r.area());
-        System.out.println("perimeter "+r.perimeter());
-
-        System.out.println("Is it a Square "+r.isSquare());
-        System.out.println(" length "+r.getLength());
-        System.out.println(" breadth "+r.getBreadth());
+        public static void main(String[] args)
+        {
+            Subject subs[]=new Subject[3];
+            subs[0]=new Subject("s101","DS",100);
+            subs[1]=new Subject("s102","Algorithms",100);
+            subs[2]=new Subject("s103","OPERATING SYSTEMS",100);
+        for(Subject s:subs)
+            System.out.println(s);
+        }
     }
 
-}
+
 
 
 
