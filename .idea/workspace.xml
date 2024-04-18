@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="data hiding  setting square method">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Array of object.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,30 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00146" summary="star pattern decresing">
-      <option name="closed" value="true" />
-      <created>1709388694587</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1709388694587</updated>
-    </task>
-    <task id="LOCAL-00147" summary="star pattern decresing">
-      <option name="closed" value="true" />
-      <created>1709388716194</created>
-      <option name="number" value="00147" />
-      <option name="presentableId" value="LOCAL-00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1709388716194</updated>
-    </task>
-    <task id="LOCAL-00148" summary="star pattern decresing starting from left">
-      <option name="closed" value="true" />
-      <created>1709388949680</created>
-      <option name="number" value="00148" />
-      <option name="presentableId" value="LOCAL-00148" />
-      <option name="project" value="LOCAL" />
-      <updated>1709388949680</updated>
     </task>
     <task id="LOCAL-00149" summary="Array practice">
       <option name="closed" value="true" />
@@ -475,7 +451,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712787064566</updated>
     </task>
-    <option name="localTasksCounter" value="195" />
+    <task id="LOCAL-00195" summary="Array of object">
+      <option name="closed" value="true" />
+      <created>1713381949151</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1713381949151</updated>
+    </task>
+    <task id="LOCAL-00196" summary="Array of object">
+      <option name="closed" value="true" />
+      <created>1713381967154</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1713381967154</updated>
+    </task>
+    <task id="LOCAL-00197" summary="Array of object.">
+      <option name="closed" value="true" />
+      <created>1713382038473</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1713382038473</updated>
+    </task>
+    <option name="localTasksCounter" value="198" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,8 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="prinyting zeroes" />
-    <MESSAGE value="printing zeroes via for each loops" />
     <MESSAGE value="printing zeroes via for each loops." />
     <MESSAGE value="sum of two matrices" />
     <MESSAGE value="multiplication of two matrices" />
@@ -525,6 +523,8 @@
     <MESSAGE value="class for a students using opps" />
     <MESSAGE value="data hiig getting and setting method" />
     <MESSAGE value="data hiding  setting square method" />
-    <option name="LAST_COMMIT_MESSAGE" value="data hiding  setting square method" />
+    <MESSAGE value="Array of object" />
+    <MESSAGE value="Array of object." />
+    <option name="LAST_COMMIT_MESSAGE" value="Array of object." />
   </component>
 </project>
