@@ -30,7 +30,8 @@ public class Main {
 
         c.radius=7;
         c.height=10;
-        System.out.println(c.volume());
+        System.out.println("volume "+c.volume());
+        System.out.println("area "+c.area());
     }
     }
 

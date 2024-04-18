@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Array of object.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="practicing inheritance">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,14 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00149" summary="Array practice">
-      <option name="closed" value="true" />
-      <created>1709498119580</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1709498119580</updated>
     </task>
     <task id="LOCAL-00150" summary="Array practice same as old method ii">
       <option name="closed" value="true" />
@@ -475,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713382038473</updated>
     </task>
-    <option name="localTasksCounter" value="198" />
+    <task id="LOCAL-00198" summary="practicing inheritance">
+      <option name="closed" value="true" />
+      <created>1713450268972</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1713450268972</updated>
+    </task>
+    <option name="localTasksCounter" value="199" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="printing zeroes via for each loops." />
     <MESSAGE value="sum of two matrices" />
     <MESSAGE value="multiplication of two matrices" />
     <MESSAGE value="sorting of an array" />
@@ -525,6 +523,7 @@
     <MESSAGE value="data hiding  setting square method" />
     <MESSAGE value="Array of object" />
     <MESSAGE value="Array of object." />
-    <option name="LAST_COMMIT_MESSAGE" value="Array of object." />
+    <MESSAGE value="practicing inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="practicing inheritance" />
   </component>
 </project>
