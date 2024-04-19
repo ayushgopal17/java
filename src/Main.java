@@ -1,38 +1,32 @@
 
-class circle {
-
-    public double radius;
-
-    public double area() {
-        return Math.PI * radius * radius;
-    }
-
-    public double perimeter() {
-        return 2 * Math.PI * radius;
-    }
-
-    public double circumference() {
-        return perimeter();
-    }
-}
-class Cylinder extends circle
+class parent
 {
-    public double height;
-    public double volume()
-    {
-        return area()*height;
+     parent()
+     {
+         System.out.println("Non param of parent");
+     }
+     parent(int x)
+     {
+         System.out.println("Param of parent ");
+     }
     }
-}
-public class Main {
-    public static void main(String[] args)
+    class child extends parent
     {
-        Cylinder c=new Cylinder();
+        child()
+        {
+            System.out.println("Non param of child");
+        }
+        child (int y)
+        {
+            System.out.println("param of child");
+        }
+    }
+    public class Main
+    {
+        public static void main(String[] args) {
+            child c=new child();
+        }
 
-        c.radius=7;
-        c.height=10;
-        System.out.println("volume "+c.volume());
-        System.out.println("area "+c.area());
-    }
     }
 
 
