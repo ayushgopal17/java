@@ -1,41 +1,30 @@
 
-class parent
+class Super
 {
-
-     parent()
-     {
-         System.out.println("Non param of parent");
-     }
-     parent(int x)
-     {
-         System.out.println("Param of parent "+x);
-     }
-    }
-    class child extends parent
+    public void display()
     {
-        child()
-        {
-            System.out.println("Non param of child");
-        }
-        child (int y)
-        {
-            System.out.println("param of child");
-        }
-        child(int x,int  y)
-        {
-            super(x);
-            System.out.println("2 param of child "+y);
-        }
-
+        System.out.println("Super class display");
     }
-    public class Main
-    {
-        public static void main(String[] args) {
-            child c=new child(10,20);
-        }
-
     }
+class Sub extends Super
+        {
+            @Override
+            public void display() {
 
+
+                System.out.println("sub class display");
+            }
+        }
+        public class Main {
+
+            public static void main(String[] args) {
+                Super sup=new Super();
+                sup.display();
+
+                Sub S=new Sub();
+                S.display();
+            }
+}
 
 
 
