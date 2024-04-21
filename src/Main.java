@@ -7,7 +7,7 @@ class TV {
 }
    class SmartTV extends TV
    {
-         @Override
+           @Override
            public void switchON() {
            System.out.println(" SMARTTV IS SWITCHED ON");}
            @Override
@@ -20,10 +20,12 @@ class TV {
 
         public class Main {
             public static void main(String[] args)
-            {
-             TV t=new TV();
-             t.switchON();
-             t.changeChannel();
+            {SmartTV t=new SmartTV();
+
+               t.switchON();
+               t.browse();
+
+
             }
             }
 
