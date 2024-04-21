@@ -1,30 +1,32 @@
 
-class Super
-{
-    public void display()
-    {
-        System.out.println("Super class display");
-    }
-    }
-class Sub extends Super
-        {
-            @Override
-            public void display() {
-
-
-                System.out.println("sub class display");
-            }
-        }
-        public class Main {
-
-            public static void main(String[] args) {
-                Super sup=new Super();
-                sup.display();
-
-                Sub S=new Sub();
-                S.display();
-            }
+class TV {
+    public void switchON() {
+        System.out.println("TV IS SWITCHED ON");}
+    public void changeChannel() {
+        System.out.println("TV channel is changes");}
 }
+   class SmartTV extends TV
+   {
+         @Override
+           public void switchON() {
+           System.out.println(" SMARTTV IS SWITCHED ON");}
+           @Override
+           public void changeChannel() {
+           System.out.println("SMARTTV channel is changes");}
+       public void browse(){System.out.println("SMART TV BROWSING");
+       }
+
+   }
+
+        public class Main {
+            public static void main(String[] args)
+            {
+             TV t=new TV();
+             t.switchON();
+             t.changeChannel();
+            }
+            }
+
 
 
 
