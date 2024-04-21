@@ -20,10 +20,10 @@ class TV {
 
         public class Main {
             public static void main(String[] args)
-            {SmartTV t=new SmartTV();
+            {  TV t=new SmartTV();
 
                t.switchON();
-               t.browse();
+               t.changeChannel();
 
 
             }
