@@ -1,33 +1,28 @@
 
-class TV {
-    public void switchON() {
-        System.out.println("TV IS SWITCHED ON");}
-    public void changeChannel() {
-        System.out.println("TV channel is changes");}
-}
-   class SmartTV extends TV
-   {
-           @Override
-           public void switchON() {
-           System.out.println(" SMARTTV IS SWITCHED ON");}
-           @Override
-           public void changeChannel() {
-           System.out.println("SMARTTV channel is changes");}
-       public void browse(){System.out.println("SMART TV BROWSING");
+class Car {
+    public void start(){System.out.println("car started");}
+    public void accelerate(){System.out.println("Car is accelerated");}
+    public void cargear(){System.out.println("car gear changes");}
+   }
+   class luxurycar {
+    public void Changegear(){
+        System.out.println("Automatic gear changes");}
+       public void openroof(){System.out.println("Sun roof is opened");
        }
 
    }
 
         public class Main {
-            public static void main(String[] args)
-            {  TV t=new SmartTV();
+            public static void main(String[] args){
 
-               t.switchON();
-               t.changeChannel();
-
+                Car c=new Car();
+                c.start();
+                c.accelerate();
+                c.cargear();
+            }
 
             }
-            }
+
 
 
 
