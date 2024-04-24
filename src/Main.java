@@ -1,38 +1,31 @@
- //package dynamicdispatch;
+
 class Super
         {
 
-public void meth1()
+public void display()
 {
-    System.out.println("super meth1");
+    System.out.println("super display");
 
 }
 
-public void meth2()
-{
-    System.out.println("super meth2");
 
-}
 }
 class Sub extends Super
         {
             @Override
-public void meth2()
+public void display()
             {
-                System.err.println("Sub meth2");
+                System.out.println("Sub Display");
             }
-            public void meth3()
-            {
-                System.out.println("sub meth3");
-            }
+
         }
 public class Main {
     public static void main(String[] args)
     {
-        Super sup=new Sub();
+        Super s=new Sub();
 
-            sup.meth1();
-        sup.meth2();
+            s.display();
+
     }
 
 }
