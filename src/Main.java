@@ -1,31 +1,41 @@
+ //package dynamicdispatch;
+class Super
+        {
 
-class Car {
-    public void start(){System.out.println("car started");}
-    public void accelerate(){System.out.println("Car is accelerated");}
-    public void changeGear(){System.out.println("car gear changes");}
-   }
-   class luxurycar extends Car {
-       public void ChangeGear() {
-           System.out.println("Automatic gear changes");
-       }
+public void meth1()
+{
+    System.out.println("super meth1");
 
-       public void openroof() {
-           System.out.println("Sun roof is opened");
-       }
-
-   }
-
-        public class Main {
-            public static void main(String[] args) {
-                luxurycar c = new luxurycar();
-                c.start();
-                c.accelerate();
-                c.changeGear();
-                c.openroof();
-
-            }
 }
 
+public void meth2()
+{
+    System.out.println("super meth2");
+
+}
+}
+class Sub extends Super
+        {
+            @Override
+public void meth2()
+            {
+                System.err.println("Sub meth2");
+            }
+            public void meth3()
+            {
+                System.out.println("sub meth3");
+            }
+        }
+public class Main {
+    public static void main(String[] args)
+    {
+        Super sup=new Sub();
+
+            sup.meth1();
+        sup.meth2();
+    }
+
+}
 
 
 
