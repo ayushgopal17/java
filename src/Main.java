@@ -1,53 +1,34 @@
-
-interface Test
+class phone
 {
-    void meth1();
-    void meth2();
+    public void call() {System.out.println("phone call");}
+    public void sms() {System.out.println("Phone sending sms");}
+    }
+    interface Icamera
+    { void click();
+        void record();
+    }
+
+    interface Imusicplayer
+    { void play();
+        void stop();
+    }
+
+    class Smartphone extends phone implements Icamera
+    {
+        public void videocall() {System.out.println("smart phone video calling");}
+        public void click() {System.out.println("smartphone clicking photos");}
+        public void record() {System.out.println("smartphone recording video");}
+
+        public void play() {System.out.println("smart phone playing music");}
+    }
+
+   public class Main
+   {
+       public static void main(String[] args)
+       {
+         Icamera sp=new Smartphone();
+        sp.click();
+
+       }
+
 }
-
-class My implements Test
-{
-
-    public void meth1() {
-        System.out.println("meth1 of class my");
-    }
-
-
-    public void meth2() {
-        System.out.println("meth2 of class my");
-    }
-    public void meth3(){
-        System.out.println("meth3 of class my");
-    }
-}
-public class Main {
-
-    public static void main(String[] args) {
-
-Test t=new My();
-t.meth1();
-t.meth2();
-    }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
