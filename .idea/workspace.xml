@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="interface practice">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="interface examples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00164" summary="2D arrays with spacing and arrangement">
-      <option name="closed" value="true" />
-      <created>1710361031919</created>
-      <option name="number" value="00164" />
-      <option name="presentableId" value="LOCAL-00164" />
-      <option name="project" value="LOCAL" />
-      <updated>1710361031919</updated>
     </task>
     <task id="LOCAL-00165" summary="2D array using for each loop">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714057041465</updated>
     </task>
-    <option name="localTasksCounter" value="213" />
+    <task id="LOCAL-00213" summary="interface examples">
+      <option name="closed" value="true" />
+      <created>1714154264184</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1714154264184</updated>
+    </task>
+    <option name="localTasksCounter" value="214" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finding the maximum values using varags" />
     <MESSAGE value="recursion" />
     <MESSAGE value="object oriented programming" />
     <MESSAGE value="To find Area of square with oops" />
@@ -525,6 +524,7 @@
     <MESSAGE value="polymorphism using overriding" />
     <MESSAGE value="Abstract class" />
     <MESSAGE value="interface practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="interface practice" />
+    <MESSAGE value="interface examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface examples" />
   </component>
 </project>

@@ -1,34 +1,43 @@
-class phone
+interface member
 {
-    public void call() {System.out.println("phone call");}
-    public void sms() {System.out.println("Phone sending sms");}
-    }
-    interface Icamera
-    { void click();
-        void record();
-    }
-
-    interface Imusicplayer
-    { void play();
-        void stop();
-    }
-
-    class Smartphone extends phone implements Icamera
+public void callback();
+}
+class store
+{
+    member members[]=new member[10];
+    int count=0;
+    store()
     {
-        public void videocall() {System.out.println("smart phone video calling");}
-        public void click() {System.out.println("smartphone clicking photos");}
-        public void record() {System.out.println("smartphone recording video");}
-
-        public void play() {System.out.println("smart phone playing music");}
     }
+    void register(member m) {
+        members[count++]=m;
+    }
+    void invitesale()
+    {
+        for (int i=0;i<count;i++)
+            members[i].callback();
+    }
+}
+class customer implements member
+{
+    String name;
+    customer(String n)
+    {
+        name=n;
+    }
+    public void callback()
+    {
+        System.out.println("ok i will visit "+name);
+    }
+}
+public class Main {
 
-   public class Main
-   {
-       public static void main(String[] args)
-       {
-         Icamera sp=new Smartphone();
-        sp.click();
-
-       }
-
+    public static void main(String[] args) {
+        store s=new store();
+        customer c=new customer("john");
+        customer c2=new customer("smith");
+                s.register(c);
+        s.register(c2);
+        s.invitesale();
+    }
 }
