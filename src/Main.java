@@ -1,43 +1,23 @@
-interface member
+class outer
 {
-public void callback();
-}
-class store
-{
-    member members[]=new member[10];
-    int count=0;
-    store()
+    int x=10;
+    class Inner
     {
+        int y=20;
+        public void innerDisplay()
+        {
+            System.out.println(x+" "+y);
+        }
     }
-    void register(member m) {
-        members[count++]=m;
-    }
-    void invitesale()
+    public void outerDisplay()
     {
-        for (int i=0;i<count;i++)
-            members[i].callback();
-    }
-}
-class customer implements member
-{
-    String name;
-    customer(String n)
-    {
-        name=n;
-    }
-    public void callback()
-    {
-        System.out.println("ok i will visit "+name);
+        Inner i=new Inner();
+        i.innerDisplay();
     }
 }
 public class Main {
-
     public static void main(String[] args) {
-        store s=new store();
-        customer c=new customer("john");
-        customer c2=new customer("smith");
-                s.register(c);
-        s.register(c2);
-        s.invitesale();
+outer O=new outer();
+O.outerDisplay();
     }
 }
