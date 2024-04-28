@@ -1,21 +1,16 @@
 class Test {
-    static int x = 10;
-    int y = 20;
-
-    void show() {
-        System.out.println(x+" "+y);
+    static {
+        System.out.println("Block 1");
     }
-    static void Display()
-    {
-        System.out.println(x);
+    static {
+        System.out.println("Block 2");
     }
 }
-
 public class Main {
-    public static void main(String[] args) {
-        Test t1=new Test();
-        t1.show();
-        Test t2=new Test();
-        t2.show();
+    public static void main(String[] args)
+    {
+    Test t=new Test();
+    System.out.println("Main");
+
     }
 }
