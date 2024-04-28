@@ -1,23 +1,21 @@
-class outer
-{
-    int x=10;
-    class Inner
-    {
-        int y=20;
-        public void innerDisplay()
-        {
-            System.out.println(x+" "+y);
-        }
+class Test {
+    static int x = 10;
+    int y = 20;
+
+    void show() {
+        System.out.println(x+" "+y);
     }
-    public void outerDisplay()
+    static void Display()
     {
-        Inner i=new Inner();
-        i.innerDisplay();
+        System.out.println(x);
     }
 }
+
 public class Main {
     public static void main(String[] args) {
-outer O=new outer();
-O.outerDisplay();
+        Test t1=new Test();
+        t1.show();
+        Test t2=new Test();
+        t2.show();
     }
 }
