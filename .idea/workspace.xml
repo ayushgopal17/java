@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Static practice ii">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="final practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00169" summary="printing zeroes via for each loops.">
-      <option name="closed" value="true" />
-      <created>1710942582658</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1710942582658</updated>
     </task>
     <task id="LOCAL-00170" summary="sum of two matrices">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714300380862</updated>
     </task>
-    <option name="localTasksCounter" value="218" />
+    <task id="LOCAL-00218" summary="final practice">
+      <option name="closed" value="true" />
+      <created>1714301830200</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1714301830200</updated>
+    </task>
+    <option name="localTasksCounter" value="219" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="class for a students using opps" />
     <MESSAGE value="data hiig getting and setting method" />
     <MESSAGE value="data hiding  setting square method" />
     <MESSAGE value="Array of object" />
@@ -525,6 +524,7 @@
     <MESSAGE value="nested inner class" />
     <MESSAGE value="Static practice" />
     <MESSAGE value="Static practice ii" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static practice ii" />
+    <MESSAGE value="final practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="final practice" />
   </component>
 </project>
