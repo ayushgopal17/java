@@ -1,17 +1,29 @@
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int a = 10, b = 0, c;
-        try {
 
+            int A[] = {30, 20, 10, 40, 0};
+          try {
+              int c = A[0] / A[2];
 
-            c = a / b;
-            System.out.println(c);
-        } catch (ArithmeticException e) {
-            System.out.println("denominator should not be 0, try again");
-        }
-        System.out.println("bye");
-    }
+              System.out.println("division is " + c);
+              try {
+                  System.out.println(A[5]);
+              }
+        catch(ArrayIndexOutOfBoundsException e)
+
+                  {
+                      System.out.println("Index is invalid");
+                  }
+
+              } catch (ArrayIndexOutOfBoundsException e) {
+                  System.out.println("Index is invalid");
+              }
+
+              System.out.println("bye");
+
+          }
     }
 
 

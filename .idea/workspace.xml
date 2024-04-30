@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Exception handling demo">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Exception handling 0 in denominator">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00172" summary="sorting of an array">
-      <option name="closed" value="true" />
-      <created>1710946509233</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1710946509233</updated>
     </task>
     <task id="LOCAL-00173" summary="method practice">
       <option name="closed" value="true" />
@@ -474,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714470764190</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="Exception handling 0 in denominator">
+      <option name="closed" value="true" />
+      <created>1714471141581</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1714471141582</updated>
+    </task>
+    <option name="localTasksCounter" value="222" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Array of object" />
     <MESSAGE value="Array of object." />
     <MESSAGE value="practicing inheritance" />
     <MESSAGE value="area and vlume via inheritance" />
@@ -524,6 +524,7 @@
     <MESSAGE value="final practice" />
     <MESSAGE value="student challenge on roll no using static members" />
     <MESSAGE value="Exception handling demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exception handling demo" />
+    <MESSAGE value="Exception handling 0 in denominator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception handling 0 in denominator" />
   </component>
 </project>
