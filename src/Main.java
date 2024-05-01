@@ -2,27 +2,20 @@
 import java.io.*;
 
 public class Main {
-        static void fun1 ()
+        static int area (int l,int b) throws Exception
         {
-
-            try {
-                System.out.println(10 / 0);
-            }
-                catch(Exception e)
-                {
-                    System.out.println(e.getMessage());
-            }
+            if(l<0 || b<0)
+                throw new Exception();
+            return l*b;
         }
-        static void fun2()
+        static void meth1() throws Exception
         {
-            fun1();
-        }
-        static void fun3()
-        {
-            fun2();
+            System.out.println("area is "+area(10,5));
         }
 
-    public static void main(String[] args) {
-        fun3();
+    public static void main(String[] args) throws Exception
+    {
+        meth1();
     }
     }
+
