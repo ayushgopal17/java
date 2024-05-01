@@ -2,20 +2,16 @@
 import java.io.*;
 
 public class Main {
-        static int area (int l,int b) throws Exception
-        {
-            if(l<0 || b<0)
-                throw new Exception();
-            return l*b;
+    public static void main(String[] args) throws Exception {
+        try {
+            System.out.println(10 / 0);
         }
-        static void meth1() throws Exception
+        catch (ArithmeticException e)
         {
-            System.out.println("area is "+area(10,5));
+            System.out.println(e);
         }
-
-    public static void main(String[] args) throws Exception
-    {
-        meth1();
+        finally {
+            System.out.println("Final Message");
+        }
     }
-    }
-
+}
