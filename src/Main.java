@@ -1,17 +1,27 @@
 
 import java.io.*;
-
-public class Main {
-    public static void main(String[] args) throws Exception {
-        try {
-            System.out.println(10 / 0);
-        }
-        catch (ArithmeticException e)
+class MyThread extends Thread
+{
+    public void run()
+    {
+        int i=1;
+        while (true)
         {
-            System.out.println(e);
+            System.out.println(i+ " Hello");
+            i++;
         }
-        finally {
-            System.out.println("Final Message");
+    }
+}
+public class Main {
+    public static void main(String[] args)
+    {
+        MyThread t=new MyThread();
+        t.start();
+        int i=1;
+        while (true)
+        {
+            System.out.println(i+" World");
+            i++;
         }
     }
 }
