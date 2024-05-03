@@ -7,12 +7,12 @@ class MyThread extends Thread
         int count=1;
         while (true) {
 
-            System.out.println(count++);
+            System.out.println(count++ +"My Thread");
         }
     }
 }
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         MyThread t=new MyThread();
         t.setDaemon(true);
         t.start();
