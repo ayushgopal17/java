@@ -12,14 +12,17 @@ class MyThread extends Thread
     }
 }
 public class Main {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception
+    {
         MyThread t=new MyThread();
-        t.setDaemon(true);
         t.start();
+        int count=1;
 
-        Thread mainThread=Thread.currentThread();
-        mainThread.join();
-
+        while (true)
+        {
+           System.out.println(count++ +"Main");
+           Thread.yield();
+        }
 
         }
     }
