@@ -11,7 +11,7 @@ class mydata
     }
     }
 }
-
+//
 class MyThread1 extends Thread
 {
     mydata d;
