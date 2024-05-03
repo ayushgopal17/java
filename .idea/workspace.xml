@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Thread Test" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="daemon Thread">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,14 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00179" summary="checking whether a number is prime or not">
-      <option name="closed" value="true" />
-      <created>1712381671145</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1712381671145</updated>
     </task>
     <task id="LOCAL-00180" summary="to find the gcd or hcf of two numbers">
       <option name="closed" value="true" />
@@ -472,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714718577786</updated>
     </task>
-    <option name="localTasksCounter" value="228" />
+    <task id="LOCAL-00228" summary="daemon Thread">
+      <option name="closed" value="true" />
+      <created>1714719528684</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1714719528684</updated>
+    </task>
+    <option name="localTasksCounter" value="229" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="method overriding" />
     <MESSAGE value="method overriding ii" />
     <MESSAGE value="method overriding ii part2" />
     <MESSAGE value="method overriding ii part 3" />
@@ -522,6 +523,7 @@
     <MESSAGE value="final practice" />
     <MESSAGE value="multithreding" />
     <MESSAGE value="Thread Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thread Test" />
+    <MESSAGE value="daemon Thread" />
+    <option name="LAST_COMMIT_MESSAGE" value="daemon Thread" />
   </component>
 </project>

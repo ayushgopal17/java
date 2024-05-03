@@ -17,7 +17,9 @@ public class Main {
         t.setDaemon(true);
         t.start();
 
-        try { Thread.sleep(100);}catch (Exception e) {}
+        Thread mainThread=Thread.currentThread();
+        mainThread.join();
+
 
         }
     }
