@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="final practice">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="multithreding">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00177" summary="method practice.">
-      <option name="closed" value="true" />
-      <created>1711644300070</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1711644300070</updated>
     </task>
     <task id="LOCAL-00178" summary="change in an array">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714551389443</updated>
     </task>
-    <option name="localTasksCounter" value="226" />
+    <task id="LOCAL-00226" summary="multithreding">
+      <option name="closed" value="true" />
+      <created>1714650689695</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1714650689695</updated>
+    </task>
+    <option name="localTasksCounter" value="227" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="parameter of constructor" />
     <MESSAGE value="parameter of constructor and two param" />
     <MESSAGE value="method overriding" />
     <MESSAGE value="method overriding ii" />
@@ -525,6 +524,7 @@
     <MESSAGE value="checked unchecked exceptions" />
     <MESSAGE value="throw and throws demo" />
     <MESSAGE value="final practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="final practice" />
+    <MESSAGE value="multithreding" />
+    <option name="LAST_COMMIT_MESSAGE" value="multithreding" />
   </component>
 </project>
