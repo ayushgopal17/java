@@ -1,49 +1,85 @@
 
 
-class mydata
+class MyData
 {
+    int value;
+    boolean flag=true;
 
-    public void display(String str)
-    {  synchronized(this) {
-        for (int i = 0; i < str.length(); i++) {
-            System.out.print(str.charAt(i));
+    synchronized public void set(int v)
+    {
+        while(flag!=true)
+            try {wait();}catch(Exception e){}
+
+        value=v;
+        flag=false;
+        notify();
+    }
+
+    synchronized public int get()
+    {
+        int x=0;
+        while(flag!=false)
+            try {wait();}catch(Exception e){}
+
+
+        x=value;
+        flag=true;
+        notify();
+
+        return x;
+    }
+}
+
+class Producer extends Thread
+{
+    MyData data;
+
+    public Producer(MyData d)
+    {
+        data=d;
+    }
+    public void run()
+    {
+        int count=1;
+        while(true)
+        {
+            data.set(count);
+            System.out.println("Producer "+count);
+            count++;
         }
     }
-    }
 }
-//
-class MyThread1 extends Thread
+
+class Consumer extends Thread
 {
-    mydata d;
-    public MyThread1(mydata d)
+    MyData data;
+
+    public Consumer(MyData d)
     {
-this.d=d;
+        data=d;
     }
     public void run()
     {
-        d.display("hello world");
+        int value;
+        while(true)
+        {
+            value=data.get();
+            System.out.println("Consumer "+value);
+        }
     }
 }
-class MyThread2 extends Thread
+
+public class Main
 {
-    mydata d;
-    public MyThread2(mydata d)
+    public static void main(String[] args)
     {
-        this.d=d;
-    }
-    public void run()
-    {
-        d.display("Welcome All");
-    }
-}
-public class Main {
-    public static void main(String[] args) throws Exception {
-mydata data=new mydata();
+        MyData data=new MyData();
 
-MyThread1 t1=new MyThread1(data);
-MyThread2 t2=new MyThread2(data);
+        Producer p=new Producer(data);
+        Consumer c=new Consumer(data);
 
-   t1.start();
-   t2.start();
+        p.start();
+        c.start();
+
     }
 }

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="thread yield">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="synchronised keyword">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,22 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00183" summary="max of three values using float and polymorphism is used">
-      <option name="closed" value="true" />
-      <created>1712385237204</created>
-      <option name="number" value="00183" />
-      <option name="presentableId" value="LOCAL-00183" />
-      <option name="project" value="LOCAL" />
-      <updated>1712385237204</updated>
-    </task>
-    <task id="LOCAL-00184" summary="variable arguments">
-      <option name="closed" value="true" />
-      <created>1712405830671</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1712405830671</updated>
     </task>
     <task id="LOCAL-00185" summary="variable arguments with showlist">
       <option name="closed" value="true" />
@@ -475,7 +459,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714732644624</updated>
     </task>
-    <option name="localTasksCounter" value="232" />
+    <task id="LOCAL-00232" summary="synchronised keyword">
+      <option name="closed" value="true" />
+      <created>1714744599512</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1714744599513</updated>
+    </task>
+    <task id="LOCAL-00233" summary="synchronised keyword">
+      <option name="closed" value="true" />
+      <created>1714744629204</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1714744629204</updated>
+    </task>
+    <option name="localTasksCounter" value="234" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="method overriding iii" />
     <MESSAGE value="method overriding iii part 2" />
     <MESSAGE value="method overriding iii part 3" />
     <MESSAGE value="Dynamic Dispatching" />
@@ -525,6 +524,7 @@
     <MESSAGE value="join" />
     <MESSAGE value="join correct" />
     <MESSAGE value="thread yield" />
-    <option name="LAST_COMMIT_MESSAGE" value="thread yield" />
+    <MESSAGE value="synchronised keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="synchronised keyword" />
   </component>
 </project>
