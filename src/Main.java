@@ -1,9 +1,17 @@
 public class Main {
 
     public static void main(String[] args) {
-        float a=12.5f;
-        float b=-12.5f/0;
+        String s1= new String("Hello");
+        StringBuffer s2 = new StringBuffer("Hello");
+        StringBuilder s3= new StringBuilder("Hello");
 
-        System.out.println(b==Float.NEGATIVE_INFINITY);
+        s1.concat("World");
+        s2.append("world");
+        s3.append("World");
+        System.out.println(s1);
+
+        System.out.println(s2);
+
+        System.out.println(s3);
     }
 }
