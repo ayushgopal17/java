@@ -1,85 +1,106 @@
 
 
-class MyData
+
+
+
+
+class WhiteBoard
 {
-    int value;
-    boolean flag=true;
-
-    synchronized public void set(int v)
+    String text;
+    int numberOfStudents=0;
+    int count=0;
+    public void attendance()
     {
-        while(flag!=true)
-            try {wait();}catch(Exception e){}
-
-        value=v;
-        flag=false;
-        notify();
+        numberOfStudents++;
     }
 
-    synchronized public int get()
+    synchronized public void write(String t)
     {
-        int x=0;
-        while(flag!=false)
-            try {wait();}catch(Exception e){}
+        System.out.println("Teacher is Writing " +t);
+        while(count!=0)
+            try{wait();}catch(Exception e){}
+        text=t;
+        count=numberOfStudents;
+        notifyAll();
 
-
-        x=value;
-        flag=true;
-        notify();
-
-        return x;
     }
+    synchronized public String read()
+    {
+
+        while(count==0)
+            try{wait();}catch(Exception e){}
+
+        String t=text;
+        count--;
+        if(count==0)
+            notify();
+        return t;
+    }
+
 }
-
-class Producer extends Thread
+class Teacher extends Thread
 {
-    MyData data;
+    WhiteBoard wb;
 
-    public Producer(MyData d)
+    String notes[]={"Java is language","It is OOPs","It is Platform Independent","It supports Thread","end"};
+
+    public Teacher(WhiteBoard w)
     {
-        data=d;
+        wb=w;
     }
+
     public void run()
     {
-        int count=1;
-        while(true)
-        {
-            data.set(count);
-            System.out.println("Producer "+count);
-            count++;
-        }
+        for(int i=0;i<notes.length;i++)
+            wb.write(notes[i]);
     }
+
 }
 
-class Consumer extends Thread
+class Student extends Thread
 {
-    MyData data;
-
-    public Consumer(MyData d)
+    String name;
+    WhiteBoard wb;
+    public Student(String n,WhiteBoard w)
     {
-        data=d;
+        name=n;
+        wb=w;
     }
+
     public void run()
     {
-        int value;
-        while(true)
+        String text;
+        wb.attendance();
+
+        do
         {
-            value=data.get();
-            System.out.println("Consumer "+value);
-        }
+            text=wb.read();
+            System.out.println(name + " Reading " + text);
+            System.out.flush();
+        }while(!text.equals("end"));
     }
+
 }
+
 
 public class Main
 {
     public static void main(String[] args)
     {
-        MyData data=new MyData();
+        WhiteBoard wb=new WhiteBoard();
+        Teacher t=new Teacher(wb);
 
-        Producer p=new Producer(data);
-        Consumer c=new Consumer(data);
+        Student s1=new Student("1. John",wb);
+        Student s2=new Student("2. Ajay",wb);
+        Student s3=new Student("3. Kloob",wb);
+        Student s4=new Student("4. Smith",wb);
 
-        p.start();
-        c.start();
+        t.start();
+
+        s1.start();
+        s2.start();
+        s3.start();
+        s4.start();
 
     }
 }
