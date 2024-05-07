@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="string,stringbuffer and stringbuilder">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="user define annotation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -83,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00189" summary="object oriented programming">
-      <option name="closed" value="true" />
-      <created>1712648023170</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1712648023170</updated>
     </task>
     <task id="LOCAL-00190" summary="To find Area of square with oops">
       <option name="closed" value="true" />
@@ -476,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715004514292</updated>
     </task>
-    <option name="localTasksCounter" value="238" />
+    <task id="LOCAL-00238" summary="user define annotation">
+      <option name="closed" value="true" />
+      <created>1715078776484</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1715078776484</updated>
+    </task>
+    <option name="localTasksCounter" value="239" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -501,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Abstract class" />
     <MESSAGE value="interface practice" />
     <MESSAGE value="interface examples" />
     <MESSAGE value="callback method" />
@@ -526,6 +524,7 @@
     <MESSAGE value="Teacher Student problem" />
     <MESSAGE value="wrapper practice" />
     <MESSAGE value="string,stringbuffer and stringbuilder" />
-    <option name="LAST_COMMIT_MESSAGE" value="string,stringbuffer and stringbuilder" />
+    <MESSAGE value="user define annotation" />
+    <option name="LAST_COMMIT_MESSAGE" value="user define annotation" />
   </component>
 </project>

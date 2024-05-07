@@ -1,18 +1,12 @@
-import java.lang.annotation.Annotation;
-@interface myAnno
-{
-    String name();
-    String Project();
-    String Date() default "today";
-    String Version()default "13";
+@FunctionalInterface
+interface Mylambda {
+    public void display();
 }
-
-@myAnno (name ="Ajay",Project ="Bank")
-        public class Main
-{
-int data;
-
-    public static void main(String[] args) {
-        int x;
+public class Main
+    {
+        public static void main(String[] args)
+        {
+            Mylambda m=()->{System.out.println("Hello World");};
+m.display();
+        }
     }
-}
