@@ -1,12 +1,17 @@
-@FunctionalInterface
-interface Mylambda {
-    public void display();
-}
-public class Main
-    {
-        public static void main(String[] args)
-        {
-            Mylambda m=()->{System.out.println("Hello World");};
-m.display();
-        }
+interface MyLambda
+{
+    public void display(String str);
     }
+    public class Main {
+      public Main(String s) {
+          System.out.println(s.toUpperCase());
+      }
+
+        public static void main(String[] args) {
+            MyLambda ml=Main::new;
+            ml.display("hello");
+        }
+      }
+
+
+
