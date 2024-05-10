@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Byte Stream">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="piped streams">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -82,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00194" summary="data hiding  setting square method">
-      <option name="closed" value="true" />
-      <created>1712787064566</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1712787064566</updated>
     </task>
     <task id="LOCAL-00195" summary="Array of object">
       <option name="closed" value="true" />
@@ -475,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715262411656</updated>
     </task>
-    <option name="localTasksCounter" value="243" />
+    <task id="LOCAL-00243" summary="piped streams">
+      <option name="closed" value="true" />
+      <created>1715264972846</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1715264972846</updated>
+    </task>
+    <option name="localTasksCounter" value="244" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Static practice" />
     <MESSAGE value="Static practice ii" />
     <MESSAGE value="student challenge on roll no using static members" />
     <MESSAGE value="Exception handling demo" />
@@ -525,6 +524,7 @@
     <MESSAGE value="method refrence" />
     <MESSAGE value="file input stream" />
     <MESSAGE value="Byte Stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="Byte Stream" />
+    <MESSAGE value="piped streams" />
+    <option name="LAST_COMMIT_MESSAGE" value="piped streams" />
   </component>
 </project>
