@@ -1,68 +1,36 @@
+
 import java.io.*;
-
-class Student implements Serializable
-{
-    private int rollno;
-    private String name;
-    private float avg;
-    private String dept;
-    public static int Data=10;
-    public transient int t;
-
-    public Student()
-    {
-
-    }
-    public Student(int r,String n,float a,String d)
-    {
-        rollno=r;
-        name=n;
-        avg=a;
-        dept=d;
-        Data=500;
-        t=500;
-    }
-
-    public String toString()
-    {
-        return "\nStudent Details\n"+
-                "\nRoll "+rollno+
-                "\nName "+name+
-                "\nAverage "+avg+
-                "\nDept "+dept+
-                "\nData "+Data+
-                "\nTransient "+t+"\n";
-    }
-
-}
 
 public class Main
 {
-    /* public static void main(String[] args) throws Exception
-     {
-         FileOutputStream fos=new FileOutputStream("C:\\MyJava\\Student3.txt");
-         ObjectOutputStream oos=new ObjectOutputStream(fos);
-
-         Student s=new Student(10,"John",89.9f,"CSE");
-
-         oos.writeObject(s);
-
-         fos.close();
-         oos.close();
-
-     }
-     */
     public static void main(String[] args) throws Exception
     {
-        FileInputStream fis=new FileInputStream("C:\\MyJava\\Student3.txt");
-        ObjectInputStream ois=new ObjectInputStream(fis);
+        float list[]={1.2f , 3.45f , 6.78f , 9.01f , 2.34f};
 
-        Student s=(Student)ois.readObject();
+        FileOutputStream fos=new FileOutputStream("List.txt");
+        DataOutputStream dos=new DataOutputStream(fos);
 
-        System.out.println(s);
+        dos.writeInt(list.length);
+        for(float f:list)
+        {
+            dos.writeFloat(f);
+        }
 
+        dos.close();
+        fos.close();
+
+        FileInputStream fis=new FileInputStream("List.txt");
+        DataInputStream dis=new DataInputStream(fis);
+        int length=dis.readInt();
+        float data;
+
+        for(int i=0;i<length;i++)
+        {
+            data=dis.readFloat();
+            System.out.println(data);
+        }
+        dis.close();
         fis.close();
-        ois.close();
 
     }
 }
