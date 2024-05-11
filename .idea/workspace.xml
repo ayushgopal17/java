@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="serilisation and deserilisation">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="serilisation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00197" summary="Array of object.">
-      <option name="closed" value="true" />
-      <created>1713382038473</created>
-      <option name="number" value="00197" />
-      <option name="presentableId" value="LOCAL-00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1713382038473</updated>
     </task>
     <task id="LOCAL-00198" summary="practicing inheritance">
       <option name="closed" value="true" />
@@ -474,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715353075241</updated>
     </task>
-    <option name="localTasksCounter" value="246" />
+    <task id="LOCAL-00246" summary="serilisation">
+      <option name="closed" value="true" />
+      <created>1715403943250</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1715403943250</updated>
+    </task>
+    <option name="localTasksCounter" value="247" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exception handling demo" />
     <MESSAGE value="Exception handling 0 in denominator" />
     <MESSAGE value="Exception handling" />
     <MESSAGE value="checked unchecked exceptions" />
@@ -524,6 +524,7 @@
     <MESSAGE value="piped streams" />
     <MESSAGE value="data stream" />
     <MESSAGE value="serilisation and deserilisation" />
-    <option name="LAST_COMMIT_MESSAGE" value="serilisation and deserilisation" />
+    <MESSAGE value="serilisation" />
+    <option name="LAST_COMMIT_MESSAGE" value="serilisation" />
   </component>
 </project>

@@ -1,36 +1,14 @@
 
-import java.io.*;
 
-public class Main
+public class Main<T>
 {
-    public static void main(String[] args) throws Exception
-    {
-        float list[]={1.2f , 3.45f , 6.78f , 9.01f , 2.34f};
-
-        FileOutputStream fos=new FileOutputStream("List.txt");
-        DataOutputStream dos=new DataOutputStream(fos);
-
-        dos.writeInt(list.length);
-        for(float f:list)
-        {
-            dos.writeFloat(f);
-        }
-
-        dos.close();
-        fos.close();
-
-        FileInputStream fis=new FileInputStream("List.txt");
-        DataInputStream dis=new DataInputStream(fis);
-        int length=dis.readInt();
-        float data;
-
-        for(int i=0;i<length;i++)
-        {
-            data=dis.readFloat();
-            System.out.println(data);
-        }
-        dis.close();
-        fis.close();
-
+    T data[]=(T[]) new Object[3];
+    public static void main(String[] args)
+    { Main<String> gd = new Main();
+        gd.data[0]="hi";
+        gd.data[1]="bye";
+        gd.data[2]=new Integer(10);
+        String str=gd.data[0];
     }
+
 }
