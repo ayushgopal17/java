@@ -1,37 +1,16 @@
-import java.io.UncheckedIOException;
 
-interface A{}
+import java.util.*;
 
-class B implements A{}
-    class C implements A{}
-
-@SuppressWarnings("Unchecked")
-
-class MyArray<T>
-
-{
-    T A[]=(T[]) new Object[10];
-    int length=0;
-    public void append(T v)
+public class Main{
+    public static void main(String[] args)
     {
-        A[length++]=v;
-    }
-    public void display()
-    {
-        for (int i=0;i<length;i++)
-        {
-            System.out.println(A[i]);
-        }
-    }
-}
-public class Main {
-    static <E> void show(E[] list)
-    {
-for (E x:list)
-    System.out.println(x);
-    }
-    public static void main(String[] args) {
+       ArrayList<Integer> al1 =new ArrayList<>(20);
+        ArrayList<Integer> al12 =new ArrayList<>(List.of(40,50,60,70,80));
 
-        show(new String[]{"hi","go","bye"});
+       al1.add(10);
+       al1.add(0,5);
+       al1.addAll(al12);
+
+        System.out.println(al1);
     }
 }
