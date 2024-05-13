@@ -9,8 +9,9 @@ public class Main{
 
        al1.add(10);
        al1.add(0,5);
-       al1.addAll(al12);
+       al1.addAll(1,al12);
 
         System.out.println(al1);
+        System.out.println(al1.contains(50));
     }
 }

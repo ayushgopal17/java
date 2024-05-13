@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Generic methods">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Array list">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,14 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00200" summary="parameter of constructor">
-      <option name="closed" value="true" />
-      <created>1713534243045</created>
-      <option name="number" value="00200" />
-      <option name="presentableId" value="LOCAL-00200" />
-      <option name="project" value="LOCAL" />
-      <updated>1713534243045</updated>
     </task>
     <task id="LOCAL-00201" summary="parameter of constructor and two param">
       <option name="closed" value="true" />
@@ -475,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715493771814</updated>
     </task>
-    <option name="localTasksCounter" value="249" />
+    <task id="LOCAL-00249" summary="Array list">
+      <option name="closed" value="true" />
+      <created>1715611463707</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1715611463707</updated>
+    </task>
+    <option name="localTasksCounter" value="250" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="checked unchecked exceptions" />
     <MESSAGE value="throw and throws demo" />
     <MESSAGE value="final practice" />
     <MESSAGE value="multithreding" />
@@ -525,6 +523,7 @@
     <MESSAGE value="serilisation" />
     <MESSAGE value="generics" />
     <MESSAGE value="Generic methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generic methods" />
+    <MESSAGE value="Array list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array list" />
   </component>
 </project>
