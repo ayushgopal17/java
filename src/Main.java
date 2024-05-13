@@ -10,8 +10,9 @@ public class Main{
        al1.add(10);
        al1.add(0,5);
        al1.addAll(1,al12);
+       al1.set(6,200);
 
-        System.out.println(al1);
-        System.out.println(al1.contains(50));
+      for (int i=0 ; i<al1.size();i++)
+        System.out.println(al1.get(i));
     }
 }
