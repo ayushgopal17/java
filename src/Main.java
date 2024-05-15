@@ -1,17 +1,48 @@
-
 import java.util.*;
 
-public class Main
+class Point implements Comparable
 {
-    public static void main(String[] args)
+    int x;
+    int y;
+    public Point(int x,int y)
     {
-       TreeSet<Integer> ts=new TreeSet<>(List.of(10,30,50,70,10,40));
+        this.x=x;
+        this.y=y;
+    }
+    public String toString()
+    {
+        return "x="+x+"y="+y;
+    }
+    public int compareTo(Object o)
+    {
+        Point p=(Point)o;
+        if(this.x<p.x)
+            return -1;
+        else if(this.x>p.x)
+            return 1;
+        else
+        {
+            if(this.y<p.y)
+                return -1;
+            else if(this.y>p.y)
+                return 1;
+            else
+                return 0;
+        }
+    }
+}
 
-ts.add(25);
+public class Main {
+
+    public static void main(String[] args) {
+
+        TreeSet<Point> ts=new TreeSet<>();
+
+        ts.add(new Point(1,1));
+        ts.add(new Point(5,5));
+        ts.add(new Point(5,2));
+
         System.out.println(ts);
-
-
-
-
     }
-    }
+
+}
