@@ -5,16 +5,13 @@ public class Main
 {
     public static void main(String[] args)
     {
-       HashSet<Integer> hs=new HashSet<>();
+       TreeSet<Integer> ts=new TreeSet<>(List.of(10,30,50,70,10,40));
 
-       hs.add(10);
-       hs.add(20);
-       hs.add(30);
-       hs.add(10);
+ts.add(25);
+        System.out.println(ts);
 
 
 
-        System.out.println(hs);
 
     }
     }
