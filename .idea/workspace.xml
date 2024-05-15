@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="DEQUE">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="priority Queue">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00206" summary="method overriding iii">
-      <option name="closed" value="true" />
-      <created>1713792043705</created>
-      <option name="number" value="00206" />
-      <option name="presentableId" value="LOCAL-00206" />
-      <option name="project" value="LOCAL" />
-      <updated>1713792043705</updated>
     </task>
     <task id="LOCAL-00207" summary="method overriding iii part 2">
       <option name="closed" value="true" />
@@ -474,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715752307363</updated>
     </task>
-    <option name="localTasksCounter" value="255" />
+    <task id="LOCAL-00255" summary="priority Queue">
+      <option name="closed" value="true" />
+      <created>1715753344484</created>
+      <option name="number" value="00255" />
+      <option name="presentableId" value="LOCAL-00255" />
+      <option name="project" value="LOCAL" />
+      <updated>1715753344484</updated>
+    </task>
+    <option name="localTasksCounter" value="256" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="join" />
     <MESSAGE value="join correct" />
     <MESSAGE value="thread yield" />
     <MESSAGE value="synchronised keyword" />
@@ -524,6 +524,7 @@
     <MESSAGE value="show method" />
     <MESSAGE value="linkedlist" />
     <MESSAGE value="DEQUE" />
-    <option name="LAST_COMMIT_MESSAGE" value="DEQUE" />
+    <MESSAGE value="priority Queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="priority Queue" />
   </component>
 </project>

@@ -13,7 +13,10 @@ public class Main{
 
 
         System.out.println(P.peek());
+        P.forEach((x) -> System.out.println(x));
+
+        P.poll();
+        System.out.println("After Deletion");
+        P.forEach((x) -> System.out.println(x));
     }
-
-
     }
