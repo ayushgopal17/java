@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="comparable">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Treemap and put">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,22 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00212" summary="interface practice">
-      <option name="closed" value="true" />
-      <created>1714057041465</created>
-      <option name="number" value="00212" />
-      <option name="presentableId" value="LOCAL-00212" />
-      <option name="project" value="LOCAL" />
-      <updated>1714057041465</updated>
-    </task>
-    <task id="LOCAL-00213" summary="interface examples">
-      <option name="closed" value="true" />
-      <created>1714154264184</created>
-      <option name="number" value="00213" />
-      <option name="presentableId" value="LOCAL-00213" />
-      <option name="project" value="LOCAL" />
-      <updated>1714154264184</updated>
     </task>
     <task id="LOCAL-00214" summary="callback method">
       <option name="closed" value="true" />
@@ -474,7 +459,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715761304706</updated>
     </task>
-    <option name="localTasksCounter" value="261" />
+    <task id="LOCAL-00261" summary="Treemap">
+      <option name="closed" value="true" />
+      <created>1716229009876</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1716229009876</updated>
+    </task>
+    <task id="LOCAL-00262" summary="Treemap and put">
+      <option name="closed" value="true" />
+      <created>1716229115399</created>
+      <option name="number" value="00262" />
+      <option name="presentableId" value="LOCAL-00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1716229115399</updated>
+    </task>
+    <option name="localTasksCounter" value="263" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,8 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="wrapper practice" />
-    <MESSAGE value="string,stringbuffer and stringbuilder" />
     <MESSAGE value="user define annotation" />
     <MESSAGE value="lambda" />
     <MESSAGE value="method refrence" />
@@ -524,6 +523,8 @@
     <MESSAGE value="hashset" />
     <MESSAGE value="treeset" />
     <MESSAGE value="comparable" />
-    <option name="LAST_COMMIT_MESSAGE" value="comparable" />
+    <MESSAGE value="Treemap" />
+    <MESSAGE value="Treemap and put" />
+    <option name="LAST_COMMIT_MESSAGE" value="Treemap and put" />
   </component>
 </project>
