@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Treemap and put">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Treemap getkey getvalue">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,14 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00214" summary="callback method">
-      <option name="closed" value="true" />
-      <created>1714194507738</created>
-      <option name="number" value="00214" />
-      <option name="presentableId" value="LOCAL-00214" />
-      <option name="project" value="LOCAL" />
-      <updated>1714194507738</updated>
     </task>
     <task id="LOCAL-00215" summary="nested inner class">
       <option name="closed" value="true" />
@@ -475,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716229115399</updated>
     </task>
-    <option name="localTasksCounter" value="263" />
+    <task id="LOCAL-00263" summary="Treemap getkey getvalue">
+      <option name="closed" value="true" />
+      <created>1716229680626</created>
+      <option name="number" value="00263" />
+      <option name="presentableId" value="LOCAL-00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1716229680626</updated>
+    </task>
+    <option name="localTasksCounter" value="264" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,7 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="user define annotation" />
     <MESSAGE value="lambda" />
     <MESSAGE value="method refrence" />
     <MESSAGE value="file input stream" />
@@ -525,6 +523,7 @@
     <MESSAGE value="comparable" />
     <MESSAGE value="Treemap" />
     <MESSAGE value="Treemap and put" />
-    <option name="LAST_COMMIT_MESSAGE" value="Treemap and put" />
+    <MESSAGE value="Treemap getkey getvalue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Treemap getkey getvalue" />
   </component>
 </project>
