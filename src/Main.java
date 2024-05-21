@@ -3,18 +3,18 @@ import java.util.Map.*;
 public class Main {
 
     public static void main(String[] args) {
-        LinkedHashMap<Integer,String> lhm=new LinkedHashMap<>(5);
+        HashSet<String> lhs=new HashSet<>(10);
 
 
 
-     lhm.put(1,"A");
-lhm.put(2,"B");
-lhm.put(3,"C");
-        lhm.put(4,"D");
-        lhm.put(5,"E");
-        lhm.put(6,"F");
+     lhs.add("A");
+lhs.add("B");
+lhs.add("C");
+        lhs.add("D");
+        lhs.add("E");
+        lhs.add("F");
 
-        lhm.forEach((k,v)-> System.out.println(k+" "+v));
+    lhs.forEach(System.out::println);
 
 
     }
