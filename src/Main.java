@@ -12,13 +12,9 @@ public class Main {
         ht.put(4,"D");
         ht.put(5,"E");
 
-   String s=(String)ht.get(3);
-   Enumeration e=ht.keys();
 
-   while (e.hasMoreElements())
-   {
-       System.out.println(e.nextElement());
-   }
+        ht.compute(2,(k,v)->v+"Z");
+        System.out.println(ht);
 
 
 

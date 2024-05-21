@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Hashtable">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Hashtable enumerator keys">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,22 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00221" summary="Exception handling 0 in denominator">
-      <option name="closed" value="true" />
-      <created>1714471141581</created>
-      <option name="number" value="00221" />
-      <option name="presentableId" value="LOCAL-00221" />
-      <option name="project" value="LOCAL" />
-      <updated>1714471141582</updated>
-    </task>
-    <task id="LOCAL-00222" summary="Exception handling">
-      <option name="closed" value="true" />
-      <created>1714475843257</created>
-      <option name="number" value="00222" />
-      <option name="presentableId" value="LOCAL-00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1714475843257</updated>
     </task>
     <task id="LOCAL-00223" summary="checked unchecked exceptions">
       <option name="closed" value="true" />
@@ -474,7 +458,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716290550444</updated>
     </task>
-    <option name="localTasksCounter" value="270" />
+    <task id="LOCAL-00270" summary="Hashtable enumerator">
+      <option name="closed" value="true" />
+      <created>1716290713299</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1716290713299</updated>
+    </task>
+    <task id="LOCAL-00271" summary="Hashtable enumerator keys">
+      <option name="closed" value="true" />
+      <created>1716290772084</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1716290772084</updated>
+    </task>
+    <option name="localTasksCounter" value="272" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,8 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="data stream" />
-    <MESSAGE value="serilisation and deserilisation" />
     <MESSAGE value="serilisation" />
     <MESSAGE value="generics" />
     <MESSAGE value="Generic methods" />
@@ -524,6 +522,8 @@
     <MESSAGE value="LinkedHashSet" />
     <MESSAGE value="HashSet" />
     <MESSAGE value="Hashtable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hashtable" />
+    <MESSAGE value="Hashtable enumerator" />
+    <MESSAGE value="Hashtable enumerator keys" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hashtable enumerator keys" />
   </component>
 </project>
