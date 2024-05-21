@@ -13,8 +13,14 @@ public class Main {
         ht.put(5,"E");
 
    String s=(String)ht.get(3);
+   Enumeration e=ht.elements();
 
-        System.out.println(ht);
+   while (e.hasMoreElements())
+   {
+       System.out.println(e.nextElement());
+   }
+
+
 
 
     }
