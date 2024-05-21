@@ -3,15 +3,19 @@ import java.util.Map.*;
 public class Main {
 
     public static void main(String[] args) {
-        HashMap<Integer,String> tm=new HashMap<>(Map.of(0,"A",1,"B",2,"C",3,"D"));
+        LinkedHashMap<Integer,String> lhm=new LinkedHashMap<>(5);
 
 
 
-     tm.put(5,"F");
+     lhm.put(1,"A");
+lhm.put(2,"B");
+lhm.put(3,"C");
+        lhm.put(4,"D");
+        lhm.put(5,"E");
+        lhm.put(6,"F");
 
-   //     Entry<Integer,String> e=tm.firstEntry();
-       // System.out.println(e.getKey()+" "+e.getValue());
+        lhm.forEach((k,v)-> System.out.println(k+" "+v));
 
-        System.out.println(tm);
+
     }
 }

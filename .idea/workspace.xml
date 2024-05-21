@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Treemap getkey getvalue">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Hashmap">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00215" summary="nested inner class">
-      <option name="closed" value="true" />
-      <created>1714287694362</created>
-      <option name="number" value="00215" />
-      <option name="presentableId" value="LOCAL-00215" />
-      <option name="project" value="LOCAL" />
-      <updated>1714287694362</updated>
     </task>
     <task id="LOCAL-00216" summary="Static practice">
       <option name="closed" value="true" />
@@ -474,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716229680626</updated>
     </task>
-    <option name="localTasksCounter" value="264" />
+    <task id="LOCAL-00264" summary="Hashmap">
+      <option name="closed" value="true" />
+      <created>1716229830814</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1716229830814</updated>
+    </task>
+    <option name="localTasksCounter" value="265" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lambda" />
     <MESSAGE value="method refrence" />
     <MESSAGE value="file input stream" />
     <MESSAGE value="Byte Stream" />
@@ -524,6 +524,7 @@
     <MESSAGE value="Treemap" />
     <MESSAGE value="Treemap and put" />
     <MESSAGE value="Treemap getkey getvalue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Treemap getkey getvalue" />
+    <MESSAGE value="Hashmap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hashmap" />
   </component>
 </project>
