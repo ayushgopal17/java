@@ -3,18 +3,18 @@ import java.util.Map.*;
 public class Main {
 
     public static void main(String[] args) {
-        HashSet<String> hs=new HashSet<>(10);
+        Hashtable  ht=new Hashtable();
 
 
+      ht.put(1,"A");
+        ht.put(2,"B");
+        ht.put(3,"C");
+        ht.put(4,"D");
+        ht.put(5,"E");
 
-     hs.add("A");
-hs.add("C");
-hs.add("E");
-        hs.add("G");
-        hs.add("K");
-        hs.add("B");
+   String s=(String)ht.get(3);
 
-    hs.forEach(System.out::println);
+        System.out.println(ht);
 
 
     }
