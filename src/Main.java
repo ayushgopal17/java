@@ -13,7 +13,7 @@ public class Main {
         ht.put(5,"E");
 
 
-        ht.compute(2,(k,v)->v+"Z");
+        ht.computeIfAbsent(7,(k)->"Z"+k);
         System.out.println(ht);
 
 
