@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Hashtable enumerator keys">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="compute or or concatinate if absent">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,22 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00223" summary="checked unchecked exceptions">
-      <option name="closed" value="true" />
-      <created>1714476782140</created>
-      <option name="number" value="00223" />
-      <option name="presentableId" value="LOCAL-00223" />
-      <option name="project" value="LOCAL" />
-      <updated>1714476782140</updated>
-    </task>
-    <task id="LOCAL-00224" summary="throw and throws demo">
-      <option name="closed" value="true" />
-      <created>1714550598825</created>
-      <option name="number" value="00224" />
-      <option name="presentableId" value="LOCAL-00224" />
-      <option name="project" value="LOCAL" />
-      <updated>1714550598825</updated>
     </task>
     <task id="LOCAL-00225" summary="final practice">
       <option name="closed" value="true" />
@@ -474,7 +459,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716290772084</updated>
     </task>
-    <option name="localTasksCounter" value="272" />
+    <task id="LOCAL-00272" summary="compute or to add">
+      <option name="closed" value="true" />
+      <created>1716291089652</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1716291089652</updated>
+    </task>
+    <task id="LOCAL-00273" summary="compute or or concatinate if absent">
+      <option name="closed" value="true" />
+      <created>1716291233140</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1716291233140</updated>
+    </task>
+    <option name="localTasksCounter" value="274" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,8 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="serilisation" />
-    <MESSAGE value="generics" />
     <MESSAGE value="Generic methods" />
     <MESSAGE value="Array list" />
     <MESSAGE value="contains" />
@@ -524,6 +523,8 @@
     <MESSAGE value="Hashtable" />
     <MESSAGE value="Hashtable enumerator" />
     <MESSAGE value="Hashtable enumerator keys" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hashtable enumerator keys" />
+    <MESSAGE value="compute or to add" />
+    <MESSAGE value="compute or or concatinate if absent" />
+    <option name="LAST_COMMIT_MESSAGE" value="compute or or concatinate if absent" />
   </component>
 </project>

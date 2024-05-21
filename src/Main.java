@@ -1,23 +1,15 @@
+import java.io.FileOutputStream;
 import java.util.*;
 import java.util.Map.*;
 public class Main {
 
-    public static void main(String[] args) {
-        Hashtable  ht=new Hashtable();
+    public static void main(String[] args) throws Exception {
+        Properties p=new Properties();
+        p.setProperty("brand","dell");
+        p.setProperty("processor","i7");
+        p.setProperty("os","windows10");
+        p.setProperty("model","lattitude");
 
-
-      ht.put(1,"A");
-        ht.put(2,"B");
-        ht.put(3,"C");
-        ht.put(4,"D");
-        ht.put(5,"E");
-
-
-        ht.computeIfAbsent(7,(k)->"Z"+k);
-        System.out.println(ht);
-
-
-
-
+        p.store(new FileOutputStream("/Users/ayushgopal/java.txt"),"laptop");
     }
 }
