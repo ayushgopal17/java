@@ -13,7 +13,7 @@ public class Main {
         ht.put(5,"E");
 
    String s=(String)ht.get(3);
-   Enumeration e=ht.elements();
+   Enumeration e=ht.keys();
 
    while (e.hasMoreElements())
    {
