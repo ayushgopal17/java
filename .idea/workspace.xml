@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="LinkedHashmap" />
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="LinkedHashSet">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,22 +81,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00217" summary="Static practice ii">
-      <option name="closed" value="true" />
-      <created>1714300380862</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1714300380862</updated>
-    </task>
-    <task id="LOCAL-00218" summary="final practice">
-      <option name="closed" value="true" />
-      <created>1714301830200</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1714301830200</updated>
     </task>
     <task id="LOCAL-00219" summary="student challenge on roll no using static members">
       <option name="closed" value="true" />
@@ -472,7 +458,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716285080140</updated>
     </task>
-    <option name="localTasksCounter" value="266" />
+    <task id="LOCAL-00266" summary="HashSet">
+      <option name="closed" value="true" />
+      <created>1716286648184</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1716286648184</updated>
+    </task>
+    <task id="LOCAL-00267" summary="LinkedHashSet">
+      <option name="closed" value="true" />
+      <created>1716286754479</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1716286754480</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -497,8 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="file input stream" />
-    <MESSAGE value="Byte Stream" />
     <MESSAGE value="piped streams" />
     <MESSAGE value="data stream" />
     <MESSAGE value="serilisation and deserilisation" />
@@ -522,6 +522,8 @@
     <MESSAGE value="Treemap getkey getvalue" />
     <MESSAGE value="Hashmap" />
     <MESSAGE value="LinkedHashmap" />
-    <option name="LAST_COMMIT_MESSAGE" value="LinkedHashmap" />
+    <MESSAGE value="HashSet" />
+    <MESSAGE value="LinkedHashSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedHashSet" />
   </component>
 </project>
