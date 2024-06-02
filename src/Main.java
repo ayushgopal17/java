@@ -5,16 +5,27 @@ import java.io.*;
 public class Main {
 
     public static void main(String[] args) {
-        String data = "name=vijay adress=delhi country=india dept=cse";
 
-        StringTokenizer stk = new StringTokenizer(data, "= ");
-        String s;
+        BitSet bs1=new BitSet();
 
-        while (stk.hasMoreTokens())
-        {
-            s=stk.nextToken();
-            System.out.println(s);
-        }
+        bs1.set(0);
+        bs1.set(2);
+        bs1.set(4);
+        bs1.set(6);
+        bs1.set(8);
+        BitSet bs2=new BitSet();
 
-       }
+        bs2.set(0);
+        bs2.set(1);
+        bs2.set(2);
+        bs2.set(3);
+        bs2.set(4);
+        bs2.set(5);
+        bs2.set(6);
+        bs2.set(7);
+        bs2.set(8);
+        bs1.and(bs2);
+        System.out.println(bs1);
+
+    }
 }
