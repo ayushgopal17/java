@@ -9,7 +9,8 @@ class Main {
 
     public static void main(String[] args) {
 
-        LocalDate d=LocalDate.of(2020,Month.JUNE,10);
-        System.out.println(d);
+        LocalDate d=LocalDate.parse("2024-01-03");
+        LocalDate d1=d.plusMonths(6);
+        System.out.println(d1);
     }
 }
