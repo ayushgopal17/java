@@ -9,8 +9,9 @@ class Main {
 
     public static void main(String[] args) {
 
-        LocalDate d=LocalDate.parse("2024-01-03");
-        LocalDate d1=d.plusMonths(6);
-        System.out.println(d1);
+        LocalTime t=LocalTime.now();
+        System.out.println(t);
+        LocalTime t1=t.minusHours(6);
+        System.out.println(t1);
     }
 }
