@@ -9,8 +9,7 @@ class Main {
 
     public static void main(String[] args) {
 
-        Date d= new Date();
+        LocalDate d=LocalDate.of(2020,Month.JUNE,10);
         System.out.println(d);
-
     }
 }
