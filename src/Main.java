@@ -1,15 +1,14 @@
-import java.io.FileOutputStream;
+
+
 import java.util.*;
-import java.util.Map.*;
+import java.io.*;
 public class Main {
 
-    public static void main(String[] args) throws Exception {
-        Properties p=new Properties();
-        p.setProperty("brand","dell");
-        p.setProperty("processor","i7");
-        p.setProperty("os","windows10");
-        p.setProperty("model","lattitude");
+    public static void main(String[] args)  {
+        String data="name=vijay;adress=delhi;country=india,dept=cse";
 
-        p.store(new FileOutputStream("/Users/ayushgopal/java.txt"),"laptop");
-    }
+        StringTokenizer stk = new StringTokenizer(data,"=;");
+        //
+
+       }
 }
