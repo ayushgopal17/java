@@ -1,13 +1,16 @@
-import java.util.Date;
-import java.util.GregorianCalendar;
+import java.util.*;
+import java.time.*;
+import java.time.temporal.*;
+
+
 
 class Main {
 
 
     public static void main(String[] args) {
-        GregorianCalendar gc=new GregorianCalendar();
 
-        System.out.println(gc.isLeapYear(2024));
+        Date d= new Date();
+        System.out.println(d);
 
     }
 }
