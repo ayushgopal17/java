@@ -8,9 +8,7 @@ class Main {
 
 
     public static void main(String[] args) {
-  OffsetDateTime zdt=OffsetDateTime.now();
-        System.out.println(zdt);
-
+Period p=Period.of(2,2,10);
+        System.out.println(p.addTo(LocalDate.now()));
     }
-
 }

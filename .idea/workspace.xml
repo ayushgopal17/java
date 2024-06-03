@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="time api mnus hours">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="offset date and time" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,14 +82,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00239" summary="lambda">
-      <option name="closed" value="true" />
-      <created>1715086378787</created>
-      <option name="number" value="00239" />
-      <option name="presentableId" value="LOCAL-00239" />
-      <option name="project" value="LOCAL" />
-      <updated>1715086378787</updated>
     </task>
     <task id="LOCAL-00240" summary="method refrence">
       <option name="closed" value="true" />
@@ -477,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717350666598</updated>
     </task>
-    <option name="localTasksCounter" value="288" />
+    <task id="LOCAL-00288" summary="offset date and time">
+      <option name="closed" value="true" />
+      <created>1717434245004</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1717434245004</updated>
+    </task>
+    <option name="localTasksCounter" value="289" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +500,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Treemap" />
     <MESSAGE value="Treemap and put" />
     <MESSAGE value="Treemap getkey getvalue" />
     <MESSAGE value="Hashmap" />
@@ -527,6 +524,7 @@
     <MESSAGE value="joda time api" />
     <MESSAGE value="date api plus months" />
     <MESSAGE value="time api mnus hours" />
-    <option name="LAST_COMMIT_MESSAGE" value="time api mnus hours" />
+    <MESSAGE value="offset date and time" />
+    <option name="LAST_COMMIT_MESSAGE" value="offset date and time" />
   </component>
 </project>
