@@ -9,8 +9,8 @@ class Main {
 
 
     public static void main(String[] args) {
-ZonedDateTime dt = ZonedDateTime.now();
-        DateTimeFormatter df=DateTimeFormatter.ofPattern("dd-MM-yyyy HH.mm.ss z Z");
-        System.out.println(df.format(dt));
+LocalDateTime dt = LocalDateTime.now();
+
+        System.out.println(dt.get(ChronoField.AMPM_OF_DAY));
     }
 }

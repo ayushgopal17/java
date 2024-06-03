@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="adding period to local date">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="date time format">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,14 +84,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00241" summary="file input stream">
-      <option name="closed" value="true" />
-      <created>1715150869397</created>
-      <option name="number" value="00241" />
-      <option name="presentableId" value="LOCAL-00241" />
-      <option name="project" value="LOCAL" />
-      <updated>1715150869397</updated>
     </task>
     <task id="LOCAL-00242" summary="Byte Stream">
       <option name="closed" value="true" />
@@ -477,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717434962764</updated>
     </task>
-    <option name="localTasksCounter" value="290" />
+    <task id="LOCAL-00290" summary="date time format">
+      <option name="closed" value="true" />
+      <created>1717435730254</created>
+      <option name="number" value="00290" />
+      <option name="presentableId" value="LOCAL-00290" />
+      <option name="project" value="LOCAL" />
+      <updated>1717435730254</updated>
+    </task>
+    <option name="localTasksCounter" value="291" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +502,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Treemap getkey getvalue" />
     <MESSAGE value="Hashmap" />
     <MESSAGE value="LinkedHashmap" />
     <MESSAGE value="LinkedHashSet" />
@@ -527,6 +526,7 @@
     <MESSAGE value="time api mnus hours" />
     <MESSAGE value="offset date and time" />
     <MESSAGE value="adding period to local date" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding period to local date" />
+    <MESSAGE value="date time format" />
+    <option name="LAST_COMMIT_MESSAGE" value="date time format" />
   </component>
 </project>
