@@ -1,3 +1,4 @@
+import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.time.*;
 import java.time.temporal.*;
@@ -8,7 +9,8 @@ class Main {
 
 
     public static void main(String[] args) {
-Period p=Period.of(2,2,10);
-        System.out.println(p.addTo(LocalDate.now()));
+ZonedDateTime dt = ZonedDateTime.now();
+        DateTimeFormatter df=DateTimeFormatter.ofPattern("dd-MM-yyyy HH.mm.ss z Z");
+        System.out.println(df.format(dt));
     }
 }
