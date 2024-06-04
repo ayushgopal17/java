@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="chronofield ampm">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Reverse echo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -85,14 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00243" summary="piped streams">
-      <option name="closed" value="true" />
-      <created>1715264972846</created>
-      <option name="number" value="00243" />
-      <option name="presentableId" value="LOCAL-00243" />
-      <option name="project" value="LOCAL" />
-      <updated>1715264972846</updated>
     </task>
     <task id="LOCAL-00244" summary="data stream">
       <option name="closed" value="true" />
@@ -478,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717435990226</updated>
     </task>
-    <option name="localTasksCounter" value="292" />
+    <task id="LOCAL-00292" summary="Reverse echo">
+      <option name="closed" value="true" />
+      <created>1717513580746</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1717513580747</updated>
+    </task>
+    <option name="localTasksCounter" value="293" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -503,7 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LinkedHashmap" />
     <MESSAGE value="LinkedHashSet" />
     <MESSAGE value="HashSet" />
     <MESSAGE value="Hashtable" />
@@ -528,6 +527,7 @@
     <MESSAGE value="adding period to local date" />
     <MESSAGE value="date time format" />
     <MESSAGE value="chronofield ampm" />
-    <option name="LAST_COMMIT_MESSAGE" value="chronofield ampm" />
+    <MESSAGE value="Reverse echo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reverse echo" />
   </component>
 </project>
