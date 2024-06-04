@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="date time format">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="chronofield ampm">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,14 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00242" summary="Byte Stream">
-      <option name="closed" value="true" />
-      <created>1715262411656</created>
-      <option name="number" value="00242" />
-      <option name="presentableId" value="LOCAL-00242" />
-      <option name="project" value="LOCAL" />
-      <updated>1715262411656</updated>
     </task>
     <task id="LOCAL-00243" summary="piped streams">
       <option name="closed" value="true" />
@@ -477,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717435730254</updated>
     </task>
-    <option name="localTasksCounter" value="291" />
+    <task id="LOCAL-00291" summary="chronofield ampm">
+      <option name="closed" value="true" />
+      <created>1717435990226</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
+      <option name="project" value="LOCAL" />
+      <updated>1717435990226</updated>
+    </task>
+    <option name="localTasksCounter" value="292" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hashmap" />
     <MESSAGE value="LinkedHashmap" />
     <MESSAGE value="LinkedHashSet" />
     <MESSAGE value="HashSet" />
@@ -527,6 +527,7 @@
     <MESSAGE value="offset date and time" />
     <MESSAGE value="adding period to local date" />
     <MESSAGE value="date time format" />
-    <option name="LAST_COMMIT_MESSAGE" value="date time format" />
+    <MESSAGE value="chronofield ampm" />
+    <option name="LAST_COMMIT_MESSAGE" value="chronofield ampm" />
   </component>
 </project>
