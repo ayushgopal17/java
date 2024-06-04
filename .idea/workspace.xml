@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="Reverse echo">
+    <list default="true" id="b800d2f7-533a-440c-ba97-c229bb20280a" name="Changes" comment="multithreaded Reverse echo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -85,14 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705517125976</updated>
-    </task>
-    <task id="LOCAL-00244" summary="data stream">
-      <option name="closed" value="true" />
-      <created>1715349911733</created>
-      <option name="number" value="00244" />
-      <option name="presentableId" value="LOCAL-00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1715349911733</updated>
     </task>
     <task id="LOCAL-00245" summary="serilisation and deserilisation">
       <option name="closed" value="true" />
@@ -478,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717513580747</updated>
     </task>
-    <option name="localTasksCounter" value="293" />
+    <task id="LOCAL-00293" summary="multithreaded Reverse echo">
+      <option name="closed" value="true" />
+      <created>1717523750089</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1717523750089</updated>
+    </task>
+    <option name="localTasksCounter" value="294" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -503,7 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LinkedHashSet" />
     <MESSAGE value="HashSet" />
     <MESSAGE value="Hashtable" />
     <MESSAGE value="Hashtable enumerator" />
@@ -528,6 +527,10 @@
     <MESSAGE value="date time format" />
     <MESSAGE value="chronofield ampm" />
     <MESSAGE value="Reverse echo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse echo" />
+    <MESSAGE value="multithreaded Reverse echo" />
+    <option name="LAST_COMMIT_MESSAGE" value="multithreaded Reverse echo" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Coding$Main.ic" NAME="Main Coverage Results" MODIFIED="1717523712324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

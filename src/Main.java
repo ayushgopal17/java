@@ -1,45 +1,56 @@
 import java.net.*;
-import java.io.*;
 
-public class Main implements Runnable
+
+public class Main
 {
-    Socket client;
-    public Main(Socket stk)
-    {
-        client=stk;
-    }
-
-
     public static void main(String[] args) throws Exception
     {
-        ServerSocket ss=new ServerSocket(2000);
+DatagramSocket ds=new DatagramSocket(2001);
+String msg="HELLO WORLD";
+DatagramPacket dp=new DatagramPacket(msg.getBytes(),msg.length(),InetAddress.getByName("Localhost"),2000);
 
-        Socket stk;
-        do
-        {
-            stk=ss.accept();
-            System.out.println("Client Connected");
-            Main mt=new Main(stk);
-            Thread t=new Thread(mt);
-            t.start();
-        }while(true);
+  ds.send(dp);
+
+  byte b[]=new byte[1024];
+  dp=new DatagramPacket(b,1024);
+  ds.receive(dp);
+
+  msg=new String(dp.getData()).trim();
+        System.out.println("From server "+msg);
+
+        ds.close();
 
     }
-    public void run()
+    }
+
+
+
+
+ class Server
+{
+    public static void main(String[] args) throws Exception
     {
-        try{
+        DatagramSocket ds=new DatagramSocket(2000);
 
-            StringBuffer buff;
-            BufferedReader br=new BufferedReader(new InputStreamReader(client.getInputStream()));
-            PrintStream ps=new PrintStream(client.getOutputStream());
-            String str;
-            do
-            {
-                str=br.readLine();
-                buff=new StringBuffer(str);
-                ps.println(buff.reverse());
-            }while(!str.equals("bye"));
+        byte b[]=new byte[1024];
+        DatagramPacket dp=new DatagramPacket(b,1024);
+        ds.receive(dp);
 
-        }catch(Exception e){}
+      String  msg=new String(dp.getData()).trim();
+        System.out.println("From Client "+msg);
+StringBuilder sb=new StringBuilder(msg);
+sb.reverse();
+msg=sb.toString();
+
+        dp=new DatagramPacket(msg.getBytes(),msg.length(),InetAddress.getByName("Localhost"),2001);
+
+        ds.send(dp);
+
+
+
+
+
+        ds.close();
+
     }
 }
